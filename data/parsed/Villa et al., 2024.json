@@ -1,0 +1,92 @@
+{
+  "title": "Carbon persistence of soils with long-term biosolids amendments in California agroecosystems",
+  "authors": "Yocelyn B. Villa, Eddie Phosalath, Rebecca Ryals",
+  "year": 2024,
+  "doi": "10.1002/saj2.20632",
+  "sites": [
+    {
+      "name": "Sacramento",
+      "location": "Sacramento County, CA",
+      "latitude": 38.334027,
+      "longitude": -121.168472,
+      "measurements": [
+        {
+          "group": "treatment",
+          "group_details": "biosolids amended",
+          "measurement_name": "SOC in soil fractions",
+          "measurement_year": "2023",
+          "measurement_month": "August",
+          "measurement_depth": "0–10 cm",
+          "soil_organic_carbon_gram_per_kg": 22.0,
+          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+        },
+        {
+          "group": "control",
+          "group_details": "unamended control",
+          "measurement_name": "SOC in soil fractions",
+          "measurement_year": "2023",
+          "measurement_month": "August",
+          "measurement_depth": "0–10 cm",
+          "soil_organic_carbon_gram_per_kg": 7.84,
+          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+        }
+      ]
+    },
+    {
+      "name": "Solano",
+      "location": "Solano County, CA",
+      "latitude": 38.197861,
+      "longitude": -121.760556,
+      "measurements": [
+        {
+          "group": "treatment",
+          "group_details": "biosolids amended",
+          "measurement_name": "SOC in soil fractions",
+          "measurement_year": "2023",
+          "measurement_month": "August",
+          "measurement_depth": "0–10 cm",
+          "soil_organic_carbon_gram_per_kg": 21.61,
+          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+        },
+        {
+          "group": "control",
+          "group_details": "unamended control",
+          "measurement_name": "SOC in soil fractions",
+          "measurement_year": "2023",
+          "measurement_month": "August",
+          "measurement_depth": "0–10 cm",
+          "soil_organic_carbon_gram_per_kg": 8.45,
+          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+        }
+      ]
+    },
+    {
+      "name": "Merced",
+      "location": "Merced County, CA",
+      "latitude": 37.072306,
+      "longitude": -120.528611,
+      "measurements": [
+        {
+          "group": "treatment",
+          "group_details": "biosolids amended",
+          "measurement_name": "SOC in soil fractions",
+          "measurement_year": "2023",
+          "measurement_month": "August",
+          "measurement_depth": "0–10 cm",
+          "soil_organic_carbon_gram_per_kg": 1.55,
+          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+        },
+        {
+          "group": "control",
+          "group_details": "unamended control",
+          "measurement_name": "SOC in soil fractions",
+          "measurement_year": "2023",
+          "measurement_month": "August",
+          "measurement_depth": "0–10 cm",
+          "soil_organic_carbon_gram_per_kg": 10.18,
+          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+        }
+      ]
+    }
+  ]
+}
