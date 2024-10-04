@@ -1,0 +1,14 @@
+__pycache__/
+.hypothesis/
+.pytest_cache/
+.ipynb_checkpoints
+.env
+.venv
+secret/
+secrets/
+*.log
+nohup.out
+*.tmp
+/tmp
+tmp.ipynb
+.DS_Store
