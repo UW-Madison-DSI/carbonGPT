@@ -989,7 +989,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "ipykernel" },
+    { name = "ipykernel", specifier = ">=6.29.5" },
     { name = "llama-parse", specifier = ">=0.5.7" },
     { name = "openai", specifier = ">=1.51.0" },
     { name = "pydantic", specifier = ">=2.9.2" },
