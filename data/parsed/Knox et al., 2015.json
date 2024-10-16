@@ -1,0 +1,116 @@
+{
+  "title": "Agricultural peatland restoration: effects of land-use change on greenhouse gas (CO2 and CH4) fluxes in the Sacramento-San Joaquin Delta",
+  "authors": "Sarah Helen Knox, Cove Sturtevant, Jaclyn Hatala Matthes, Laurie Koteen, Joseph Verfaillie, Dennis Baldocchi",
+  "year": 2014,
+  "doi": "10.1111/gcb.12745",
+  "locations": [
+    {
+      "name": "Pasture",
+      "location": "Sacramento-San Joaquin Delta, CA, USA",
+      "latitude": 38.0366,
+      "longitude": -121.754,
+      "measurements": [
+        {
+          "value": 341.0,
+          "measurement": "Annual net CO2 exchange",
+          "measurement_year": "Study year",
+          "measurement_depth": "Top soil",
+          "measurement_unit": "g C m2 yr-1",
+          "group": "control"
+        },
+        {
+          "change": 5.84,
+          "measurement": "CH4 fluxes",
+          "measurement_year": "Study year",
+          "measurement_depth": "Top soil",
+          "measurement_unit": "g C m2 yr-1"
+        }
+      ]
+    },
+    {
+      "name": "Corn",
+      "location": "Sacramento-San Joaquin Delta, CA, USA",
+      "latitude": 38.1047,
+      "longitude": -121.6433,
+      "measurements": [
+        {
+          "value": 278.0,
+          "measurement": "Annual net CO2 exchange",
+          "measurement_year": "Study year",
+          "measurement_depth": "Top soil",
+          "measurement_unit": "g C m2 yr-1",
+          "group": "control"
+        }
+      ]
+    },
+    {
+      "name": "Rice",
+      "location": "Sacramento-San Joaquin Delta, CA, USA",
+      "latitude": 38.10875,
+      "longitude": -121.653,
+      "measurements": [
+        {
+          "value": 50.0,
+          "measurement": "Annual net CO2 exchange",
+          "measurement_year": "Study year",
+          "measurement_depth": "Top soil",
+          "measurement_unit": "g C m2 yr-1",
+          "group": "treatment"
+        },
+        {
+          "change": 5.3,
+          "measurement": "CH4 fluxes",
+          "measurement_year": "Study year",
+          "measurement_depth": "Top soil",
+          "measurement_unit": "g C m2 yr-1"
+        }
+      ]
+    },
+    {
+      "name": "Young wetland",
+      "location": "Sacramento-San Joaquin Delta, CA, USA",
+      "latitude": 38.0498,
+      "longitude": -121.765,
+      "measurements": [
+        {
+          "value": 368.0,
+          "measurement": "Annual net CO2 exchange",
+          "measurement_year": "Study year",
+          "measurement_depth": "Top soil",
+          "measurement_unit": "g C m2 yr-1",
+          "group": "treatment"
+        },
+        {
+          "change": 53.0,
+          "measurement": "CH4 fluxes",
+          "measurement_year": "Study year",
+          "measurement_depth": "Top soil",
+          "measurement_unit": "g C m2 yr-1"
+        }
+      ]
+    },
+    {
+      "name": "Old wetland",
+      "location": "Sacramento-San Joaquin Delta, CA, USA",
+      "latitude": 38.1074,
+      "longitude": -121.6469,
+      "measurements": [
+        {
+          "value": 397.0,
+          "measurement": "Annual net CO2 exchange",
+          "measurement_year": "Study year",
+          "measurement_depth": "Top soil",
+          "measurement_unit": "g C m2 yr-1",
+          "group": "treatment"
+        },
+        {
+          "change": 38.7,
+          "measurement": "CH4 fluxes",
+          "measurement_year": "Study year",
+          "measurement_depth": "Top soil",
+          "measurement_unit": "g C m2 yr-1"
+        }
+      ]
+    }
+  ]
+}

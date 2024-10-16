@@ -3,32 +3,60 @@
   "authors": "Yocelyn B. Villa, Eddie Phosalath, Rebecca Ryals",
   "year": 2024,
   "doi": "10.1002/saj2.20632",
-  "sites": [
+  "locations": [
     {
       "name": "Sacramento",
       "location": "Sacramento County, CA",
-      "latitude": 38.334027,
+      "latitude": 38.335083,
       "longitude": -121.168472,
       "measurements": [
         {
-          "group": "treatment",
-          "group_details": "biosolids amended",
-          "measurement_name": "SOC in soil fractions",
-          "measurement_year": "2023",
-          "measurement_month": "August",
-          "measurement_depth": "0–10 cm",
-          "soil_organic_carbon_gram_per_kg": 22.0,
-          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+          "value": 22.0,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
         },
         {
-          "group": "control",
-          "group_details": "unamended control",
-          "measurement_name": "SOC in soil fractions",
-          "measurement_year": "2023",
-          "measurement_month": "August",
-          "measurement_depth": "0–10 cm",
-          "soil_organic_carbon_gram_per_kg": 7.84,
-          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+          "value": 7.84,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "value": 58.1,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "30-50 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "value": 6.34,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "30-50 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "value": 10.65,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "75-100 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "value": 0.18,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "75-100 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
         }
       ]
     },
@@ -39,24 +67,52 @@
       "longitude": -121.760556,
       "measurements": [
         {
-          "group": "treatment",
-          "group_details": "biosolids amended",
-          "measurement_name": "SOC in soil fractions",
-          "measurement_year": "2023",
-          "measurement_month": "August",
-          "measurement_depth": "0–10 cm",
-          "soil_organic_carbon_gram_per_kg": 21.61,
-          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+          "value": 21.61,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
         },
         {
-          "group": "control",
-          "group_details": "unamended control",
-          "measurement_name": "SOC in soil fractions",
-          "measurement_year": "2023",
-          "measurement_month": "August",
-          "measurement_depth": "0–10 cm",
-          "soil_organic_carbon_gram_per_kg": 8.45,
-          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+          "value": 8.45,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "value": 2.64,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "30-50 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "value": 8.73,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "30-50 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "value": 0.83,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "75-100 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "value": 0.92,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "75-100 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
         }
       ]
     },
@@ -67,24 +123,52 @@
       "longitude": -120.528611,
       "measurements": [
         {
-          "group": "treatment",
-          "group_details": "biosolids amended",
-          "measurement_name": "SOC in soil fractions",
-          "measurement_year": "2023",
-          "measurement_month": "August",
-          "measurement_depth": "0–10 cm",
-          "soil_organic_carbon_gram_per_kg": 1.55,
-          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+          "value": 1.55,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
         },
         {
-          "group": "control",
-          "group_details": "unamended control",
-          "measurement_name": "SOC in soil fractions",
-          "measurement_year": "2023",
-          "measurement_month": "August",
-          "measurement_depth": "0–10 cm",
-          "soil_organic_carbon_gram_per_kg": 10.18,
-          "details": "SOC measure in free-light fraction, occluded-light fraction, and heavy fraction across three depths."
+          "value": 10.18,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "value": 19.39,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "30-50 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "value": 10.49,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "30-50 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "value": 5.74,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "75-100 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "value": 15.79,
+          "measurement": "Carbon",
+          "measurement_year": "Present",
+          "measurement_depth": "75-100 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
         }
       ]
     }

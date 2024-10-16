@@ -8,23 +8,31 @@ class Group(StrEnum):
     CONTROL = auto()
 
 
-class SoilOrganicCarbonMeasurement(BaseModel):
-    group: Group
-    group_details: str
-    measurement_name: str
+class TopSoilOrganicCarbon(BaseModel):
+    """Top soil organic carbon measurement in weights."""
+
+    value: float
+    measurement: str
     measurement_year: str
-    measurement_month: str
     measurement_depth: str
-    soil_organic_carbon_gram_per_kg: float
-    details: str
+    measurement_unit: str
+    group: Group
 
 
-class Site(BaseModel):
+class TopSoilOrganicCarbonChange(BaseModel):
+    change: float
+    measurement: str
+    measurement_year: str
+    measurement_depth: str
+    measurement_unit: str
+
+
+class Location(BaseModel):
     name: str
     location: str
     latitude: float
     longitude: float
-    measurements: list[SoilOrganicCarbonMeasurement]
+    measurements: list[TopSoilOrganicCarbon | TopSoilOrganicCarbonChange]
 
 
 class Paper(BaseModel):
@@ -32,4 +40,4 @@ class Paper(BaseModel):
     authors: str
     year: int
     doi: str
-    sites: list[Site]
+    locations: list[Location]

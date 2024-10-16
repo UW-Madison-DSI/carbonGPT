@@ -1,0 +1,112 @@
+{
+  "title": "Compost amendment maintains soil structure and carbon storage by increasing available carbon and microbial biomass in agricultural soil – A six-year field study",
+  "authors": "Daoyuan Wang, Jonathan Y. Lin, Jordan M. Sayre, Radomir Schmidt, Steven J. Fonte, Jorge L.M. Rodrigues, Kate M. Scow",
+  "year": 2022,
+  "doi": "10.1016/j.geoderma.2022.116117",
+  "locations": [
+    {
+      "name": "Russell Ranch Sustainable Agricultural Research Facility",
+      "location": "Davis, California, USA",
+      "latitude": 38.54639,
+      "longitude": -121.87444,
+      "measurements": [
+        {
+          "measurement": "bulk soil",
+          "value": 12.4,
+          "measurement_year": "2018",
+          "measurement_depth": "top 15 cm",
+          "measurement_unit": "g/kg",
+          "group": "treatment"
+        },
+        {
+          "measurement": "bulk soil",
+          "value": 10.59,
+          "measurement_year": "2018",
+          "measurement_depth": "top 15 cm",
+          "measurement_unit": "g/kg",
+          "group": "control"
+        },
+        {
+          "measurement": "dissolved organic C",
+          "value": 0.1746,
+          "measurement_year": "2018",
+          "measurement_depth": "whole soil",
+          "measurement_unit": "g/kg",
+          "group": "treatment"
+        },
+        {
+          "measurement": "dissolved organic C",
+          "value": 0.1135,
+          "measurement_year": "2018",
+          "measurement_depth": "whole soil",
+          "measurement_unit": "g/kg",
+          "group": "control"
+        },
+        {
+          "measurement": "microbial biomass-C",
+          "value": 0.3152,
+          "measurement_year": "2018",
+          "measurement_depth": "whole soil",
+          "measurement_unit": "g/kg",
+          "group": "treatment"
+        },
+        {
+          "measurement": "microbial biomass-C",
+          "value": 0.1576,
+          "measurement_year": "2018",
+          "measurement_depth": "whole soil",
+          "measurement_unit": "g/kg",
+          "group": "control"
+        },
+        {
+          "measurement": "Large macroaggregate C",
+          "value": 3.64,
+          "measurement_year": "2018",
+          "measurement_depth": "2000–8000 μm fraction",
+          "measurement_unit": "g/kg",
+          "group": "treatment"
+        },
+        {
+          "measurement": "Large macroaggregate C",
+          "value": 0.8,
+          "measurement_year": "2018",
+          "measurement_depth": "2000–8000 μm fraction",
+          "measurement_unit": "g/kg",
+          "group": "control"
+        },
+        {
+          "measurement": "Small macroaggregate C",
+          "value": 5.26,
+          "measurement_year": "2018",
+          "measurement_depth": "53–250 μm fraction",
+          "measurement_unit": "g/kg",
+          "group": "treatment"
+        },
+        {
+          "measurement": "Small macroaggregate C",
+          "value": 5.1,
+          "measurement_year": "2018",
+          "measurement_depth": "53–250 μm fraction",
+          "measurement_unit": "g/kg",
+          "group": "control"
+        },
+        {
+          "measurement": "Silt and clay C",
+          "value": 1.88,
+          "measurement_year": "2018",
+          "measurement_depth": "<53 μm fraction",
+          "measurement_unit": "g/kg",
+          "group": "treatment"
+        },
+        {
+          "measurement": "Silt and clay C",
+          "value": 2.88,
+          "measurement_year": "2018",
+          "measurement_depth": "<53 μm fraction",
+          "measurement_unit": "g/kg",
+          "group": "control"
+        }
+      ]
+    }
+  ]
+}

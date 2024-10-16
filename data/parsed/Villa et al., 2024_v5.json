@@ -1,0 +1,144 @@
+{
+  "title": "Carbon persistence of soils with long-term biosolids amendments in California agroecosystems",
+  "authors": "Yocelyn B. Villa, Eddie Phosalath, Rebecca Ryals",
+  "year": 2024,
+  "doi": "10.1002/saj2.20632",
+  "locations": [
+    {
+      "name": "Sacramento",
+      "location": "Sacramento County, CA",
+      "latitude": 38.3351,
+      "longitude": -121.1685,
+      "measurements": [
+        {
+          "measurement": "TOC in HF (control)",
+          "value": 2.03,
+          "measurement_year": "unknown",
+          "measurement_depth": "0–10 cm",
+          "measurement_unit": "mg/g",
+          "group": "control"
+        },
+        {
+          "measurement": "TOC in HF (biosolids)",
+          "value": 1.47,
+          "measurement_year": "unknown",
+          "measurement_depth": "0–10 cm",
+          "measurement_unit": "mg/g",
+          "group": "treatment"
+        },
+        {
+          "measurement": "TOC in HF (control)",
+          "value": 0.96,
+          "measurement_year": "unknown",
+          "measurement_depth": "30–50 cm",
+          "measurement_unit": "mg/g",
+          "group": "control"
+        },
+        {
+          "measurement": "TOC in HF (biosolids)",
+          "value": 0.65,
+          "measurement_year": "unknown",
+          "measurement_depth": "30–50 cm",
+          "measurement_unit": "mg/g",
+          "group": "treatment"
+        },
+        {
+          "measurement": "TOC in HF (control)",
+          "value": 0.25,
+          "measurement_year": "unknown",
+          "measurement_depth": "75–100 cm",
+          "measurement_unit": "mg/g",
+          "group": "control"
+        },
+        {
+          "measurement": "TOC in HF (biosolids)",
+          "value": 0.62,
+          "measurement_year": "unknown",
+          "measurement_depth": "75–100 cm",
+          "measurement_unit": "mg/g",
+          "group": "treatment"
+        }
+      ]
+    },
+    {
+      "name": "Solano",
+      "location": "Solano County, CA",
+      "latitude": 38.1979,
+      "longitude": -121.7603,
+      "measurements": [
+        {
+          "measurement": "TOC in HF (control)",
+          "value": 1.73,
+          "measurement_year": "unknown",
+          "measurement_depth": "30–50 cm",
+          "measurement_unit": "mg/g",
+          "group": "control"
+        },
+        {
+          "measurement": "TOC in HF (biosolids)",
+          "value": 1.73,
+          "measurement_year": "unknown",
+          "measurement_depth": "30–50 cm",
+          "measurement_unit": "mg/g",
+          "group": "treatment"
+        },
+        {
+          "measurement": "TOC in HF (control)",
+          "value": 0.73,
+          "measurement_year": "unknown",
+          "measurement_depth": "75–100 cm",
+          "measurement_unit": "mg/g",
+          "group": "control"
+        }
+      ]
+    },
+    {
+      "name": "Merced",
+      "location": "Merced County, CA",
+      "latitude": 37.0723,
+      "longitude": -120.5286,
+      "measurements": [
+        {
+          "measurement": "TOC in HF (biosolids)",
+          "value": 1.8,
+          "measurement_year": "unknown",
+          "measurement_depth": "0–10 cm",
+          "measurement_unit": "mg/g",
+          "group": "treatment"
+        },
+        {
+          "measurement": "TOC in HF (control)",
+          "value": 1.93,
+          "measurement_year": "unknown",
+          "measurement_depth": "0–10 cm",
+          "measurement_unit": "mg/g",
+          "group": "control"
+        },
+        {
+          "measurement": "TOC in HF (biosolids)",
+          "value": 0.86,
+          "measurement_year": "unknown",
+          "measurement_depth": "30–50 cm",
+          "measurement_unit": "mg/g",
+          "group": "treatment"
+        },
+        {
+          "measurement": "TOC in HF (control)",
+          "value": 0.82,
+          "measurement_year": "unknown",
+          "measurement_depth": "30–50 cm",
+          "measurement_unit": "mg/g",
+          "group": "control"
+        },
+        {
+          "measurement": "TOC in HF (biosolids)",
+          "value": 0.55,
+          "measurement_year": "unknown",
+          "measurement_depth": "75–100 cm",
+          "measurement_unit": "mg/g",
+          "group": "treatment"
+        }
+      ]
+    }
+  ]
+}
