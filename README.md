@@ -1,21 +1,24 @@
 # CarbonGPT prototype
 
-Prototype extracting structured data from soil science papers to build a benchmark dataset.
+Prototype extracting structured data from soil science papers to build a benchmark dataset for soil system models (e.g., carbon cycles).
 
 ## Insights
 
 - Converting PDFs to Markdown works well.
-- Extracting metadata like study name, authors, location, and year is easy.
-- A universal structure is hard to create, and may need iterative refinement.
+- Extracting metadata like study name, authors, site location, and data collection year is easy.
+- A universal structure is hard to create and may need iterative refinement.
 - Models can confuse similar but distinct measurements.
 
-## Example input and output
+## The prototype code can be found in notebooks
+https://github.com/UW-Madison-DSI/carbonGPT/tree/main/notebooks
+
+## Example input and output to run the code
 
 Providing a [structure](proto_carbongpt/data_model.py) and a simple prompt allows an LLM to find the relevant table in the PDF and return structured data:
 
 Prompt
 ```
-Extract research paper information. Get all topsoil organic carbon (TOC) measures in weights (e.g., g/kg, mg/g, mg/ha...) from the paper. Also extract changes in TOC over time if available.
+Extract research paper information. Get all topsoil (< 20 cm deep) organic carbon (TOC) measures in weights (e.g., g/kg, mg/g, mg/ha...) from the paper. Also, extract changes in TOC over time or due to long-term treatments if they are available.
 ```
 
 Input: [Villa 2024](<data/pdfs/Villa et al., 2024.pdf>)
