@@ -18,7 +18,7 @@ Providing a [structure](proto_carbongpt/data_model.py) and a simple prompt allow
 
 Prompt
 ```
-Extract research paper information. Get all topsoil (< 20 cm deep) organic carbon (TOC) measures in weights (e.g., g/kg, mg/g, mg/ha...) from the paper. Also, extract changes in TOC over time or due to long-term treatments if they are available.
+Extract research paper information. Get all topsoil (< 20 cm deep) organic carbon (TOC) measurements in the units of mass fractions/concentrations (e.g., g/kg, mg/g, mg/ha...) from the paper. Also, extract changes in TOC over time due to land cover and land use change or long-term treatments if they are available.
 ```
 
 Input: [Villa 2024](<data/pdfs/Villa et al., 2024.pdf>)
