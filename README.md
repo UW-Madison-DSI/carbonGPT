@@ -62,7 +62,7 @@ Output excerpt:
 }
 ```
 
-For more examples of input and output, visit these links:
+For more examples of input and output, visit these links (continuously updating):
 
 - [inputs](/workspaces/proto-carbonGPT/data/pdfs)
 - [outputs](/workspaces/proto-carbonGPT/data/parsed)
