@@ -63,8 +63,6 @@ The site has two soil types: (a) Yolo silt loam (fine-silty, mixed, superactive,
 https://doi.org/10.5194/soil-8-59-2022
 
 SOIL, 8, 59–83, 2022
-# 62
-
 # D. Rath et al.: Compost-cover crop synergy increases subsoil carbon storage
 
 and (b) Rincon silty clay loam (fine, smectitic, thermic Mollic Haploxeralf). Detailed soil horizon information (classification, texture, and depths) can be found in Table A3 and the Century Experiment published dataset in Wolf et al. (2018). Abbreviations used in this paper (CONV, CONV + WCC, ORG) correspond to the abbreviations used in Wolf et al. (2018) (CMT, LMT, OMT) and are identical to those used in Tautges et al. (2019) for ease of comparison.
@@ -82,6 +80,8 @@ Bulk density values used in this paper were sampled using a Giddings hydraulic p
 # 2.3 Field operations
 
 Cover crop planting and incorporation into ORG and CONV + WCC systems in 2017–2018 followed the trend of previous years, being planted onto 15 cm raised beds 1.5 m apart with a mixture of oat (Avena sativa L., 42.0 % C, 2.5 % N), faba bean (Vicia faba L., 44.1 % C, 3.5 % N), and hairy vetch (Vicia villosa Roth, 44.5 % C, 5.2 % N) and terminated by mowing plus two to three disking passes in March. Cover crop biomass was sampled by cutting aboveground biomass from one 4.5 m2 area in each plot prior to termination. Corn and tomato biomass residues were measured by cutting aboveground biomass at two 1.5 m2 locations per plot.
+
+SOIL, 8, 59–83, 2022 https://doi.org/10.5194/soil-8-59-2022
 # D. Rath et al.: Compost-cover crop synergy increases subsoil carbon storage
 
 after harvest. Biomass samples were oven-dried at 65 ◦C for 4 d and ground to 2 mm prior to total C and N analysis. Fertilization during the 2017–2018 growing season was also similar to previous years, with CONV and CONV + WCC plots receiving 325 kg ha−1 8–24–6 (26 kg N ha−1, 78 kg P ha−1, 19.5 kg K ha−1) starter fertilizer at the time of planting. Tomato CONV plots also received ammonium sulfate at a total rate of 200 kg N ha−1, while maize CONV plots received ammonium sulfate at a total rate of 235 kg N ha−1.
@@ -139,8 +139,6 @@ Due to combined N inputs from cover crop and compost, ORG systems received 1.4 t
 Please note that all systems transitioned from furrow to drip irrigation in 2014.
 
 https://doi.org/10.5194/soil-8-59-2022
-
-SOIL, 8, 59–83, 2022
 # D. Rath et al.: Compost-cover crop synergy increases subsoil carbon storage
 
 # 3.2 Soil carbon content changes over 25 years
@@ -149,23 +147,20 @@ Carbon stocks in the 1 m profile of ORG systems showed an increase of ∼ 19 Mg 
 
 # 3.3 Moisture content, hydraulic conductivity, and aggregation
 
-Cover-cropped systems (ORG and CONV+WCC) stored approximately 10 % more water than non-cover-cropped systems (CONV) in the upper 1 m of the soil profile during the 2019 winter (Fig. 4). There was no difference in moisture content between ORG and CONV + WCC systems. Averaged hydraulic conductivity measurements showed differences among all three systems, but treatments with cover crops (ORG and CONV + WCC) had values that spanned 3 orders of magnitude compared to treatments without cover crops (CONV) (Fig. 5). There was no significant difference in mean weight diameter (MWD) of aggregates between all three systems at any depth (Fig. A2).
+Cover-cropped systems (ORG and CONV+WCC) stored approximately 10 % more water than non-cover-cropped systems (CONV) in the upper 1 m of the soil profile during the 2019 winter (Fig. 4). There was no difference in moisture content between ORG and CONV + WCC systems.
+
+Averaged hydraulic conductivity measurements showed differences among all three systems, but treatments with cover crops (ORG and CONV + WCC) had values that spanned 3 orders of magnitude compared to treatments without cover crops (CONV) (Fig. 5). There was no significant difference in mean weight diameter (MWD) of aggregates between all three systems at any depth (Fig. A2).
 
 # 3.4 Soil nutrient content: extractable organic carbon, mineral nitrogen, phosphorus, sulfur
 
 Composted systems (ORG) had higher amounts of extractable organic carbon (EOC) (p < 0.01), plant-available.
 
-|Treatment|CC'N|CC'VCC|ORG|CONV-Wcc|
-|---|---|---|---|---|
-|60-100|Whole Profile| | | |
-
-Figure 3. Change in C stocks of ORG, CONV + WCC, and CONV systems from 1993 to 2018 by depth. Values were obtained by subtracting C stocks in 1993 from 2018 stocks for individual systems and then averaging by management system. Error bars denote standard error. (∗ : significantly different from 0, p value < 0.05, + : significantly different from 0, p value 0.05 < x < 0.1).
-
-Figure 4. Depth equivalent of water (cm) in the upper 1 m of ORG, CONV+WCC, and CONV profiles during the January–March 2019 winter season. Error bars represent standard error.
-
-Figure 5. Saturated hydraulic conductivity (cm/day) in ORG, CONV + WCC, and CONV systems taken in August 2018.
-
-SOIL, 8, 59–83, 2022 https://doi.org/10.5194/soil-8-59-2022
+|15.60|Treatment|CC'N|ORG|CC'VCC|CONV-Wcc|
+|---|---|---|---|---|---|
+|60-100|Whole Profile| | | | |
+|Change In Total from 1993/2018 (Mla/ha)|Change In Total from 1993/2018 (Mla/ha)|Change In Total from 1993/2018 (Mla/ha)|Change In Total from 1993/2018 (Mla/ha)|Change In Total from 1993/2018 (Mla/ha)|Change In Total from 1993/2018 (Mla/ha)|
+|Date|Date|Date|Date|Date|Date|
+|15 Jan|1 Feb|2019|15 Feb|Mar| |
 # D. Rath et al.: Compost-cover crop synergy increases subsoil carbon storage
 
 # 3.5 SOM composition via FTIR
@@ -174,13 +169,13 @@ Spectral subtractions of 1993 from 2018 FTIR spectra revealed positive peaks (in
 
 ORG and CONV + WCC systems showed distinct positive peaks associated with carboxylate functional groups at the 60–100 cm depths in 2018 when compared with CONV systems (bands at 1631 cm−1) and slightly higher peaks associated with aromatic functional groups from 0 to 15 cm for CONV + WCC and from 15 to 60 cm for ORG (bands at 1662 cm−1) (Fig. 8b). ORG also showed positive peaks associated with aromatic functional groups from 0 to 15 and from 15 to 60 cm when compared to CONV + WCC (bands at 1662 and 1602 cm−1) in 2018. Aromatic : carboxylate ratios provide an indication of the intensity of carboxyl peaks relative to aromatic peaks, which can be related back to concentrations of these functional groups in the sample. A lower aromatic : carboxyl ratio can indicate either more carboxyl or fewer aromatic functional groups, while a higher ratio can mean increased aromatic or decreased carboxyl groups. Aromatic : carboxylate peak intensity ratios decreased with depth.
 
-Figure 6. (a–d) Extractable organic C, mineral N (NO3 + NH4), phosphorus, and sulfur in 0–100 cm profiles of ORG, CONV WCC, and CONV systems over the February 2018–February 2019 season. All values are given on a mass basis (kg ha−1). Error bars represent standard error.
+Figure 6. (a–d) Extractable organic C, mineral N (NO3− + NH4+), phosphorus, and sulfur in 0–100 cm profiles of ORG, CONV WCC, and CONV systems over the February 2018–February 2019 season. All values are given on a mass basis (kg ha−1). Error bars represent standard error.
 
 Figure 7. (a–d) Extractable organic C, mineral N, phosphorus, and sulfur stocks at 60–100 cm in ORG, CONV + WCC, and CONV systems over the February 2018–February 2019 season. All values are given in kilogram per hectare. Error bars represent standard error.
 
 phosphorus (p < 0.01), and sulfur (p < 0.01) in the 1 m profile than non-composted systems (CONV + WCC and CONV) averaged across all dates of the 2018–2019 year (Fig. 6). These differences were most pronounced in the upper 15 cm, where ORG systems had approximately 2× more EOC (p < 0.01), 3× more phosphorus (p < 0.01) and 1.75× more sulfur (p < 0.01) than CONV + WCC or CONV systems (Fig. A1).
 
-CONV + WCC systems had more mineral N (NO3 + NH4) than CONV systems during the June and August time points (p = 0.04), with up to 3.5 times more mineral N than CONV systems mid-season and 1.6 times more mineral N at harvest. ORG systems trended towards higher mineral N during the April–September growing season, but the magnitude of this difference was small (p = 0.17).
+CONV + WCC systems had more mineral N (NO3− + NH4+) than CONV systems during the June and August time points (p = 0.04), with up to 3.5 times more mineral N than CONV systems mid-season and 1.6 times more mineral N at harvest. ORG systems trended towards higher mineral N during the April–September growing season, but the magnitude of this difference was small (p = 0.17).
 
 Nutrient values showed large seasonal variation, with the highest levels of C and N observed during the June time point and the highest sulfur levels at the August time point. EOC, mineral N, and sulfur values were lowest during the winter (November–February), which coincided with the period of highest rainfall. Phosphorus levels increased slightly throughout the 2018–2019 year.
 
@@ -270,10 +265,9 @@ under all treatments, attributed to an increase in microbially processed C, prov
 
 | | |Feb|Feb|Jun|Jun|Aug|Aug|Feb|Feb|
 |---|---|---|---|---|
-| | |ORG|CONV+WCC|CONV| | | | | |
-|300|9|5|0|1|12|200|8|100| |
-|400|8|2|300|5|2|200|8|3| |
-|Feb|Aug|Feb|Feb|Jun|Aug|Feb| | | |
+|300|9|5|0|1|12|200|8|100|Treatment|
+|400|ORG|CONV+WCC|CONV|2|5|2|300|22|200|
+|L|100|3|Feb|Aug|Feb|Feb|Jun|Aug|Feb|
 
 Figure A1. Extractable organic C, mineral N, phosphorus, and sulfur stocks at 0–15 cm in ORG, CONV + WCC, and CONV systems over the February 2018–February 2019 season. All values are given in kilograms per hectare. Error bars represent standard error.
 
@@ -288,7 +282,7 @@ Mean weight diameter of aggregates obtained by wet sieving for 0–15, 15–60, 
 |---|---|---|---|
 |ORG|8|9|9|
 |CONV + WCC|0|1|@|
-|CONV|2|#0|LutchT|
+|CONV|0|0|LutchT|
 
 # Figure A3
 
@@ -301,32 +295,40 @@ SOIL, 8, 59–83, 2022
 
 # Subtractions 20 18-1993
 
-| |ORG|CONV-WcC| |ORGONV|Conv-WcC|Conv|
-|---|---|---|---|---|---|---|
-|0-15 cm|8|6| |1|8| |
-|15-60 cm|8|0| |1|0| |
-|60-100 cm|8|8| |1|3| |
+| |ORG|CONV-WcC| |0-15 cm| |15-60 cm|60-100 cm|
+|---|---|---|---|---|---|---|---|
+|1|ORG|1|0-15 cm|8|15-60 cm|8|60-100 cm|
+|2.8x|7|Conv-WcC|Conv|15-60 cm|60-100 cm|0-15 cm| |
+|3|ORG|CONV-WcC|8|15-60 cm|8|60-100 cm| |
+|813|8|8|2221|9| | | |
 
-# Figure A4
+1900   1800   1700    1600   1500    1400  1300    1200          1900   1800   1700    1600   1500   1400   1300    1200
 
-(a, b) FTIR spectral subtractions for the 1900–1200 cm−1 range comparing (a) 2018–1993 spectra for ORG, CONV + WCC, and CONV and (b) ORG, CONV + WCC, and CONV spectra in 2018.
+Wavenumber (cm-1)
 
-# Soil Temperature at 50 cm (F) Precipitation (Inches)
+# Figure A4.
 
-|Date|Rainfall|Soil Temperature|
-|---|---|---|
-|022|21|3|
-|28|49|24|
-| |8|4v|
-| |~v|028124|
+(a, b) FTIR spectral subtractions for the 1900–1200 cm-1 range comparing (a) 2018–1993 spectra for ORG, CONV + WCC, and CONV and (b) ORG, CONV + WCC, and CONV spectra in 2018.
 
-# Figure A5
+# Soil Temperature at 50 cm (F)  Precipitation (Inches)
+
+022
+21
+3
+48
+49
+24
+"8
+4v
+~v
+028124
+Date
+
+# Figure A5.
 
 Rainfall and soil temperature at 50 cm at Russell Ranch from October 2018 to October 2019. Data taken from http://atm.ucdavis.edu/weather/uc-davis-weather-climate-station (last access: 13 January 2022).
 
-SOIL, 8, 59–83, 2022
-
-https://doi.org/10.5194/soil-8-59-2022
+SOIL, 8, 59–83, 2022 https://doi.org/10.5194/soil-8-59-2022
 # D. Rath et al.: Compost-cover crop synergy increases subsoil carbon storage
 
 # Figure A6
@@ -342,7 +344,7 @@ Example DRIFT spectra showing three replicate spectra, the mean spectra, and the
 |Monounsaturated|16 : 1 w5c; 16 : 1 w7c; 18 : 1 w9c; 18 : 1 w7c|
 |Cyclopropyl indicator|19 : 0 cyclo w7c/18 : 1 w7c|
 
-# Table A2. FTIR peak assignments∗ used for analysis of spectra.
+# Table A2. FTIR peak assignments used for analysis of spectra.
 
 |Wavenumber (cm−1)|IR assignment|
 |---|---|
@@ -356,7 +358,7 @@ Example DRIFT spectra showing three replicate spectra, the mean spectra, and the
 |1400|νs (COO)|
 |1384|ν (C−O) vibration aromatic and δ (C−H) vibrations in CH3 and CH2|
 
-∗ Assignments taken from Baes and Bloom (1989), Hesse et al. (2005), Parikh et al. (2014), and Orlov (1986).
+Assignments taken from Baes and Bloom (1989), Hesse et al. (2005), Parikh et al. (2014), and Orlov (1986).
 
 https://doi.org/10.5194/soil-8-59-2022
 
@@ -502,7 +504,7 @@ Buchmann, C. and Schaumann, G. E.: The contribution of various organic matter fr
 
 Buyer, J. S. and Sasser, M.: High throughput phospholipid fatty acid analysis of soils, Appl. Soil Ecol., 61, 127–130, https://doi.org/10.1016/j.apsoil.2012.06.005, 2012.
 
-Çerçioğlu, M., Anderson, S. H., Udawatta, R. P., and Alagele, S.: Effect of cover crop management on soil hydraulic properties, Geoderma, 343, 247–253, https://doi.org/10.1016/j.geoderma.2019.02.027, 2019.
+Çerçio˘glu, M., Anderson, S. H., Udawatta, R. P., and Alagele, S.: Effect of cover crop management on soil hydraulic properties, Geoderma, 343, 247–253, https://doi.org/10.1016/j.geoderma.2019.02.027, 2019.
 
 Chabbi, A., Kögel-Knabner, I., and Rumpel, C.: Stabilised carbon in subsoil horizons is located in spatially distinct parts of the soil profile, Soil Biol. Biochem., 41, 256–261, https://doi.org/10.1016/j.soilbio.2008.10.033, 2009.
 
@@ -531,145 +533,39 @@ Dangal, S. R. S., Sanderman, J., Wills, S., and Ramirez-Lopez, L.: Accurate and 
 SOIL, 8, 59–83, 2022 https://doi.org/10.5194/soil-8-59-2022
 # D. Rath et al.: Compost-cover crop synergy increases subsoil carbon storage
 
+79
+
 # References
 
-a Large Mid-Infrared Spectral Library, Soil Systems, 3, 11,
-https://doi.org/10.3390/SOILSYSTEMS3010011, 2019.
+- Deiss, L., Margenot, A. J., Culman, S. W., and Demyan, M. S.: Optimizing acquisition parameters in diffuse reflectance infrared Fourier transform spectroscopy of soils, Soil Sci. Soc. Am. J., 84, 930–948, https://doi.org/10.1002/saj2.20028, 2020.
+- Deiss, L., Sall, A., Demyan, M. S., and Culman, S. W.: Does crop rotation affect soil organic matter stratification in tillage systems, Soil Till. Res., 209, 104932, https://doi.org/10.1016/j.still.2021.104932, 2021.
+- Demyan, M. S., Rasche, F., Schulz, E., Breulmann, M., Müller, T., and Cadisch, G.: Use of specific peaks obtained by diffuse reflectance Fourier transform mid-infrared spectroscopy to study the composition of organic matter in a Haplic Chernozem, Eur. J. Soil Sci., 63, 189–199, https://doi.org/10.1111/j.1365-2389.2011.01420.x, 2012.
+- de Queiroz, M. G., da Silva, T. G. F., Zolnier, S., Jardim, A. M. da R. F., de Souza, C. A. A., Araújo Júnior, G. do N., de Morais, J. E. F., and de Souza, L. S. B.: Spatial and temporal dynamics of soil moisture for surfaces with a change in land use in the semi-arid region of Brazil, CATENA, 188, 104457, https://doi.org/10.1016/J.CATENA.2020.104457, 2020.
+- Dick, R. P.: A review: long-term effects of agricultural systems on soil biochemical and microbial parameters, Agr. Ecosyst. Environ., 40, 25–36, https://doi.org/10.1016/0167-8809(92)90081-L, 1992.
+- Ding, G., Liu, X., Herbert, S., Novak, J., Amarasiriwardena, D., and Xing, B.: Effect of cover crop management on soil organic matter, Geoderma, 130, 229–239, https://doi.org/10.1016/J.GEODERMA.2005.01.019, 2006.
+- Doane, T. A. and Horwáth, W. R.: Spectrophotometric determination of nitrate with a single reagent, Anal. Lett., 36, 2713–2722, https://doi.org/10.1081/AL-120024647, 2003.
+- Drenovsky, R. E., Vo, D., Graham, K. J., and Scow, K. M.: Soil water content and organic carbon availability are major determinants of soil microbial community composition, Microb. Ecol., 48, 424–430, https://doi.org/10.1007/s00248-003-1063-2, 2004.
+- Dungait, J. A. J., Hopkins, D. W., Gregory, A. S., and Whitmore, A. P.: Soil organic matter turnover is governed by accessibility not recalcitrance, Glob. Change Biol., 18, 1781–1796, https://doi.org/10.1111/j.1365-2486.2012.02665.x, 2012.
+- Edwards, P.: Sulfur cycling, retention, and mobility in soils: a review, available at: http://www.fs.fed.us/ne/newtown_square/publications/technical_reports/pdfs/1998/gtrne250.pdf (last access: 10 April 2020), 1998.
+- Elliott, E. T.: Aggregate Structure and Carbon, Nitrogen, and Phosphorus in Native and Cultivated Soils, Soil Sci. Soc. Am. J., 50, 627–633, https://doi.org/10.2136/sssaj1986.03615995005000030017x, 1986.
+- Fan, J., McConkey, B., Wang, H., and Janzen, H.: Root distribution by depth for temperate agricultural crops, Field Crop. Res., 189, 68–74, https://doi.org/10.1016/j.fcr.2016.02.013, 2016.
+- Fanin, N., Kardol, P., Farrell, M., Nilsson, M. C., Gundale, M. J., and Wardle, D. A.: The ratio of Gram-positive to Gram-negative bacterial PLFA markers as an indicator of carbon availability in organic soils, Soil Biol. Biochem., 128, 111–114, https://doi.org/10.1016/j.soilbio.2018.10.010, 2019.
+- Fierer, N., Allen, A. S., Schimel, J. P., and Holden, P. A.: Controls on microbial CO2 production: A comparison of surface and subsurface soil horizons, Glob. Change Biol., 9, 1322–1332, https://doi.org/10.1046/j.1365-2486.2003.00663.x, 2003a.
+- Fierer, N., Schimel, J. P., and Holden, P. A.: Variations in microbial community composition through two soil depth profiles, Soil Biol. Biochem., 35, 167–176, https://doi.org/10.1016/S0038-0717(02)00251-1, 2003b.
+- Franzluebbers, A. J.: Water infiltration and soil structure related to organic matter and its stratification with depth, Soil Till. Res., 66, 197–205, https://doi.org/10.1016/S0167-1987(02)00027-2, 2002.
+- Frostegård, Å., Tunlid, A., and Bååth, E.: Use and misuse of PLFA measurements in soils, Soil Biol. Biochem., 43, 1621–1625, https://doi.org/10.1016/j.soilbio.2010.11.021, 2011.
+- Ghestem, M., Sidle, R. C., and Stokes, A.: The influence of plant root systems on subsurface flow: Implications for slope stability, Bioscience, 61, 869–879, https://doi.org/10.1525/bio.2011.61.11.6, 2011.
+- Gulick, S. H., Grimes, D. W., Munk, D. S., and Goldhamer, D. A.: Cover-Crop-Enhanced Water Infiltration of a Slowly Permeable Fine Sandy Loam, Soil Sci. Soc. Am. J., 58, 1539–1546, https://doi.org/10.2136/sssaj1994.03615995005800050038x, 1994.
+- Hangen, E., Buczko, U., Bens, O., Brunotte, J., and Hüttl, R. F.: Infiltration patterns into two soils under conventional and conservation tillage: Influence of the spatial distribution of plant root structures and soil animal activity, Soil Till. Res., 63, 181–186, https://doi.org/10.1016/S0167-1987(01)00234-3, 2002.
+- Harrison, R. B., Footen, P. W., and Strahm, B. D.: Deep soil horizons: Contribution and importance to soil carbon pools and in assessing whole-ecosystem response to management and global change, Forest Sci., 57, 67–76, 2011.
+- Haruna, S. I., Nkongolo, N. V., Anderson, S. H., Eivazi, F., and Zaibon, S.: In situ infiltration as influenced by cover crop and tillage management, J. Soil Water Conserv., 73, 164–172, https://doi.org/10.2489/jswc.73.2.164, 2018.
+- Hesse, M., Meier, H., and Zeeh, B.: Spektroskopische Methoden in der Organischen Chemie, Georg Thieme Verlag, Stuttgart, https://doi.org/10.1002/pauz.19960250417, 2005 (in German).
+- Hicks Pries, C. E., Sulman, B. N., West, C., O’Neill, C., Poppleton, E., Porras, R. C., Castanha, C., Zhu, B., Wiedemeier, D. B., and Torn, M. S.: Root litter decomposition slows with soil depth, Soil Biol. Biochem., 125, 103–114, https://doi.org/10.1016/j.soilbio.2018.07.002, 2018.
+- Jenny, H.: Factors of Soil Formation: A System of Quantitative Pedology, Dover Publications, New York, ISBN 978-05-9853-785-0, 1941.
+- Jilling, A., Kane, D., Williams, A., Yannarell, A. C., Davis, A., Jordan, N. R., Koide, R. T., Mortensen, D. A., Smith, R. G., Snapp, S. S., Spokas, K. A., and Stuart Grandy, A.: Rapid and distinct responses of particulate and mineral-associated organic nitrogen to conservation tillage and cover crops, Geoderma, 359, 114001, https://doi.org/10.1016/j.geoderma.2019.114001, 2020.
+- Johnston, A. E. and Poulton, P. R.: The importance of long-term experiments in agriculture: their management to ensure continued crop production and soil fertility; the Rothamsted experience, Eur. J. Soil Sci., 69, 113–125, https://doi.org/10.1111/ejss.12521, 2018.
 
-Deiss, L., Margenot, A. J., Culman, S. W., and Demyan, M. S.:
-Optimizing acquisition parameters in diffuse reflectance infrared Fourier transform spectroscopy of soils,
-Soil Sci. Soc. Am. J., 84, 930–948,
-https://doi.org/10.1002/saj2.20028, 2020.
-
-Deiss, L., Sall, A., Demyan, M. S., and Culman, S. W.:
-Does crop rotation affect soil organic matter stratification in tillage systems,
-Soil Till. Res., 209, 104932,
-https://doi.org/10.1016/j.still.2021.104932, 2021.
-
-Demyan, M. S., Rasche, F., Schulz, E., Breulmann, M., Müller, T., and Cadisch, G.:
-Use of specific peaks obtained by diffuse reflectance Fourier transform mid-infrared spectroscopy to study the composition of organic matter in a Haplic Chernozem,
-Eur. J. Soil Sci., 63, 189–199,
-https://doi.org/10.1111/j.1365-2389.2011.01420.x, 2012.
-
-de Queiroz, M. G., da Silva, T. G. F., Zolnier, S., Jardim, A. M. da R. F., de Souza, C. A. A., Araújo Júnior, G. do N., de Morais, J. E. F., and de Souza, L. S. B.:
-Spatial and temporal dynamics of soil moisture for surfaces with a change in land use in the semi-arid region of Brazil,
-CATENA, 188, 104457,
-https://doi.org/10.1016/J.CATENA.2020.104457, 2020.
-
-Dick, R. P.: A review: long-term effects of agricultural systems on soil biochemical and microbial parameters,
-Agr. Ecosyst. Environ., 40, 25–36,
-https://doi.org/10.1016/0167-8809(92)90081-L, 1992.
-
-Ding, G., Liu, X., Herbert, S., Novak, J., Amarasiriwardena, D., and Xing, B.:
-Effect of cover crop management on soil organic matter,
-Geoderma, 130, 229–239,
-https://doi.org/10.1016/J.GEODERMA.2005.01.019, 2006.
-
-Doane, T. A. and Horwáth, W. R.:
-Spectrophotometric determination of nitrate with a single reagent,
-Anal. Lett., 36, 2713–2722,
-https://doi.org/10.1081/AL-120024647, 2003.
-
-Drenovsky, R. E., Vo, D., Graham, K. J., and Scow, K. M.:
-Soil water content and organic carbon availability are major determinants of soil microbial community composition,
-Microb. Ecol., 48, 424–430,
-https://doi.org/10.1007/s00248-003-1063-2, 2004.
-
-Dungait, J. A. J., Hopkins, D. W., Gregory, A. S., and Whitmore, A. P.:
-Soil organic matter turnover is governed by accessibility not recalcitrance,
-Glob. Change Biol., 18, 1781–1796,
-https://doi.org/10.1111/j.1365-2486.2012.02665.x, 2012.
-
-Edwards, P.:
-Sulfur cycling, retention, and mobility in soils: a review,
-available at: http://www.fs.fed.us/ne/newtown_square/publications/technical_reports/pdfs/1998/gtrne250.pdf
-(last access: 10 April 2020), 1998.
-
-Elliott, E. T.:
-Aggregate Structure and Carbon, Nitrogen, and Phosphorus in Native and Cultivated Soils,
-Soil Sci. Soc. Am. J., 50, 627–633,
-https://doi.org/10.2136/sssaj1986.03615995005000030017x, 1986.
-
-Fan, J., McConkey, B., Wang, H., and Janzen, H.:
-Root distribution by depth for temperate agricultural crops,
-Field Crop. Res., 189, 68–74,
-https://doi.org/10.1016/j.fcr.2016.02.013, 2016.
-
-Fanin, N., Kardol, P., Farrell, M., Nilsson, M. C., Gundale, M. J., and Wardle, D. A.:
-The ratio of Gram-positive to Gram-negative bacterial PLFA markers as an indicator of carbon availability in organic soils,
-Soil Biol. Biochem., 128, 111–114,
-https://doi.org/10.1016/j.soilbio.2018.10.010, 2019.
-
-Fierer, N., Allen, A. S., Schimel, J. P., and Holden, P. A.:
-Controls on microbial CO2 production: A comparison of surface and subsurface soil horizons,
-Glob. Change Biol., 9, 1322–1332,
-https://doi.org/10.1046/j.1365-2486.2003.00663.x, 2003a.
-
-Fierer, N., Schimel, J. P., and Holden, P. A.:
-Variations in microbial community composition through two soil depth profiles,
-Soil Biol. Biochem., 35, 167–176,
-https://doi.org/10.1016/S0038-0717(02)00251-1, 2003b.
-
-Franzluebbers, A. J.:
-Water infiltration and soil structure related to organic matter and its stratification with depth,
-Soil Till. Res., 66, 197–205,
-https://doi.org/10.1016/S0167-1987(02)00027-2, 2002.
-
-Frostegård, Å., Tunlid, A., and Bååth, E.:
-Use and misuse of PLFA measurements in soils,
-Soil Biol. Biochem., 43, 1621–1625,
-https://doi.org/10.1016/j.soilbio.2010.11.021, 2011.
-
-Ghestem, M., Sidle, R. C., and Stokes, A.:
-The influence of plant root systems on subsurface flow: Implications for slope stability,
-Bioscience, 61, 869–879,
-https://doi.org/10.1525/bio.2011.61.11.6, 2011.
-
-Gulick, S. H., Grimes, D. W., Munk, D. S., and Goldhamer, D. A.:
-Cover-Crop-Enhanced Water Infiltration of a Slowly Permeable Fine Sandy Loam,
-Soil Sci. Soc. Am. J., 58, 1539–1546,
-https://doi.org/10.2136/sssaj1994.03615995005800050038x, 1994.
-
-Hangen, E., Buczko, U., Bens, O., Brunotte, J., and Hüttl, R. F.:
-Infiltration patterns into two soils under conventional and conservation tillage: Influence of the spatial distribution of plant root structures and soil animal activity,
-Soil Till. Res., 63, 181–186,
-https://doi.org/10.1016/S0167-1987(01)00234-3, 2002.
-
-Harrison, R. B., Footen, P. W., and Strahm, B. D.:
-Deep soil horizons: Contribution and importance to soil carbon pools and in assessing whole-ecosystem response to management and global change,
-Forest Sci., 57, 67–76, 2011.
-
-Haruna, S. I., Nkongolo, N. V., Anderson, S. H., Eivazi, F., and Zaibon, S.:
-In situ infiltration as influenced by cover crop and tillage management,
-J. Soil Water Conserv., 73, 164–172,
-https://doi.org/10.2489/jswc.73.2.164, 2018.
-
-Hesse, M., Meier, H., and Zeeh, B.:
-Spektroskopische Methoden in der Organischen Chemie,
-Georg Thieme Verlag, Stuttgart,
-https://doi.org/10.1002/pauz.19960250417, 2005 (in German).
-
-Hicks Pries, C. E., Sulman, B. N., West, C., O’Neill, C., Poppleton, E., Porras, R. C., Castanha, C., Zhu, B., Wiedemeier, D. B., and Torn, M. S.:
-Root litter decomposition slows with soil depth,
-Soil Biol. Biochem., 125, 103–114,
-https://doi.org/10.1016/j.soilbio.2018.07.002, 2018.
-
-Jenny, H.:
-Factors of Soil Formation: A System of Quantitative Pedology,
-Dover Publications, New York, ISBN 978-05-9853-785-0, 1941.
-
-Jilling, A., Kane, D., Williams, A., Yannarell, A. C., Davis, A., Jordan, N. R., Koide, R. T., Mortensen, D. A., Smith, R. G., Snapp, S. S., Spokas, K. A., and Stuart Grandy, A.:
-Rapid and distinct responses of particulate and mineral-associated organic nitrogen to conservation tillage and cover crops,
-Geoderma, 359, 114001,
-https://doi.org/10.1016/j.geoderma.2019.114001, 2020.
-
-Johnston, A. E. and Poulton, P. R.:
-The importance of long-term experiments in agriculture: their management to ensure continued crop production and soil fertility; the Rothamsted experience,
-Eur. J. Soil Sci., 69, 113–125,
-https://doi.org/10.1111/ejss.12521, 2018.
-
-https://doi.org/10.5194/soil-8-59-2022
-SOIL, 8, 59–83, 2022
+https://doi.org/10.5194/soil-8-59-2022 SOIL, 8, 59–83, 2022
 # D. Rath et al.: Compost-cover crop synergy increases subsoil carbon storage
 
 # References

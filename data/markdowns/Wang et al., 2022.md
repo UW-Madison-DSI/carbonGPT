@@ -4,6 +4,12 @@
 
 # GEODERMA
 
+# Geoderma
+
+# ELSEVIER
+
+# journal homepage: www.elsevier.com/locate/geoderma
+
 # Compost amendment maintains soil structure and carbon storage by increasing available carbon and microbial biomass in agricultural soil – A six-year field study
 
 Daoyuan Wang a,b,*, Jonathan Y. Lin b, Jordan M. Sayre b, Radomir Schmidt b, Steven J. Fonte c, Jorge L.M. Rodriguesb,d, Kate M. Scow b
@@ -39,7 +45,9 @@ Received 6 January 2022; Received in revised form 10 August 2022; Accepted 14 Au
 Available online 27 August 2022
 
 0016-7061/© 2022 Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
-# D. Wang et al. Geoderma 427 (2022) 116117
+# D. Wang et al.
+
+# Geoderma 427 (2022) 116117
 
 # 1. Introduction
 
@@ -80,7 +88,7 @@ DNA from each soil aggregate size fraction was extracted using the Powerlyzer Po
 
 # 2.6. Quantitative PCR
 
-To assess prokaryotic and fungal gene copy number as a proxy for absolute abundance, quantitative PCR (qPCR) was performed on each DNA sample using the universal primers 515F (5′-GTGCCAGCMGCCGCGGTAA-3′) and 806R (5′-GGAC- TACHVGGGTWTCTAAT-3′) for the 16S rRNA gene (Rubin et al., 2014) and ITS1F (5′-CTTGGTCATTTAGAGGAAGTAA-3′) and ITS2 (5′-GCTGCGTTCTTCATCGATGC-3′) for the fungal Internal Transcribed Spacer (ITS) region (De Beeck et al., 2014). qPCR was performed in 20 μL reaction mixtures containing 10 μL SsoAdvanced Universal SYBR Green Supermix (Biorad, Hercules, CA, USA), 0.5 μM each primer, and 10 ng sample DNA. Reactions were carried out on a BioRad CFX Connect System (Biorad, Hercules, CA, USA) and amplification of the 16S rRNA gene consisted of an initial denaturation of 95◦C for 3 min, followed by 39 cycles of 95◦C for 10 s and 60◦C for 30 s.
+To assess prokaryotic and fungal gene copy number as a proxy for absolute abundance, quantitative PCR (qPCR) was performed on each DNA sample using the universal primers 515F (5′-GTGCCAGCMGCCGCGGTAA-3′) and 806R (5′-GGAC-TACHVGGGTWTCTAAT-3′) for the 16S rRNA gene (Rubin et al., 2014) and ITS1F (5′-CTTGGTCATTTAGAGGAAGTAA-3′) and ITS2 (5′-GCTGCGTTCTTCATCGATGC-3′) for the fungal Internal Transcribed Spacer (ITS) region (De Beeck et al., 2014). qPCR was performed in 20 μL reaction mixtures containing 10 μL SsoAdvanced Universal SYBR Green Supermix (Biorad, Hercules, CA, USA), 0.5 μM each primer, and 10 ng sample DNA. Reactions were carried out on a BioRad CFX Connect System (Biorad, Hercules, CA, USA) and amplification of the 16S rRNA gene consisted of an initial denaturation of 95◦C for 3 min, followed by 39 cycles of 95◦C for 10 s and 60 ◦C for 30 s.
 # D. Wang et al.
 
 # Geoderma 427 (2022) 116117
@@ -165,20 +173,17 @@ than the mineral fertilizer treatment (Fig. 3a). Similar differences were also o
 
 Our findings suggest that continuous compost application is more effective at increasing soil C sequestration by maintaining soil structure and stabilizing SOM than in soils not receiving compost. In contrast, without compost inputs, there were significant decreases in aggregate structure, which in turn was associated with significant C loss. Poultry manure compost is rich in multivalent ions, such as Ca and P (Griffin et al., 2017), which can generate a bridging effect to enhance sorption of SOM to clay minerals (Feng et al., 2005) and increase soil aggregation (Bronick and Lal, 2005). The lack of sufficient C input and associated aggregate structure in the mineral fertilizer treatments could lead to greater exposure and more rapid decay of native SOM (Dungait et al., 2012).
 
-# 3.4. Soil microbial community composition and abundance in water-stable aggregate fractions
+Surprisingly, walnut shell biochar had little effect on soil C in the top 15 cm. Previous research has hypothesized that recalcitrant C compounds are the major contributors to C sequestration from biochar (Cheng et al., 2008; Harvey et al., 2012), especially high-temperature biochars like the type applied in our study, which has a high proportion of recalcitrant to labile C (Zimmerman, 2010). The O/C and H/C atom ratios of the walnut shell biochar were 0.0217 and 0.193, respectively (Mukome et al., 2013a), which indicated that the walnut shell biochar-C was relatively stable and potentially had a longer than 1000-year half-life (Spokas, 2010). A large amount of biochar particles (with a diameter of around 2–4 mm) was easily observed and recovered in the surface soil at the end of the field trial. We did not detect soil bulk C content difference between no-biochar and biochar-amended treatments under the same management practice in either year 2 or year 6 (Fig. 2), which indicated a positive priming effect at the beginning of the field trial. The walnut shell biochar was high in potassium ion (Mukome et al., 2013b). The increase in soil monovalent ion concentration can enhance mobility of soluble SOM and dispersion of organic matter and clay particles (Chow et al., 2006), which can both result in a short-term positive priming effect due to increased microbial available substrates and microbial activities (DeCiucies et al., 2018). A 14-month lab incubation study using similar soil and the same biochar (with application rates equivalent or doubled as in the field study) also showed evidence of positive priming effect and potential soil native organic C loss within the timeframe of the incubation (Wang et al., 2017). Additionally, we speculate that in the field, some biochar particles may migrate from the point of application and leave the surface soil through irrigation, wind.
 
-Compost management significantly increased both bacterial 16S rRNA gene and fungal ITS abundances across soil water-stable aggregate fractions, while biochar had no effect in year 2018 (Figs. 4 and 5). The weighted average gene abundance in bulk soil also indicated that the abundance of the 16S rRNA gene was 76% higher under compost than in soils receiving mineral fertilizer (Fig. 6a). The weighted average ITS copy number in bulk soil under compost addition was two orders of magnitudes higher than in soil under mineral fertilizer treatment (Fig. 6b). Nonmetric multidimensional scaling (NMDS) analysis of the 16S rRNA gene at the ESV level revealed that soil prokaryotic community composition was significantly distinct in aggregate fractions of different sizes (Fig. 7). These differences were reflected by higher proportions of bacteria from the orders Micrococcales, Streptomycetales, Propionibacteriales, and Sphingomonadales in the microaggregate and silt and clay fractions, and higher proportions of the Gaiellales, Gemmatimonadales, Nitrososphaerales, and Nitrospirales in the large and small aggregate fractions. Across all aggregate size fractions, both compost and mineral fertilizer treatments had significant but limited effects on bacterial community composition, whereas biochar had no effect (Fig. S2).
-
-Predictive assignment of soil microbial functions based on the 16S rRNA gene sequencing results revealed that the abundance of bacteria potentially capable of degrading aromatic C compounds was higher in compost than mineral fertilizer treatments in 2018 (Fig. 8). No differences were detected for predicted functions related to many major C (methanotrophy, methylotrophy, chitinolysis, cellulolysis, xylanolysis, non-methane aliphatic hydrocarbon degradation, hydrocarbon degradation) and N (aerobic ammonia oxidation, aerobic nitrite oxidation, nitrification, nitrate reduction, ureolysis) cycling pathways between the two treatments.
-
-A 14-month lab incubation study using similar soil and the same biochar (with application rates equivalent or doubled as in the field study) also showed evidence of positive priming effect and potential soil native organic C loss within the timeframe of the incubation (Wang et al., 2017). Additionally, we speculate that in the field, some biochar particles may migrate from the point of application and leave the surface soil through irrigation, wind.
-
-**Soil dissolved organic carbon and soil microbial biomass carbon after 6 years (March 2018) under different management practices (compost and mineral fertilizer), with and without walnut shell biochar amendment (0 and 10 ton ha-1). The error bars represent standard errors and bars with different letters indicate statistically significant (P < 0.05) differences.**
 | |Mineral fertilizer|Mineral fertilizer|Compost|Compost|
 |---|---|---|---|---|
-|biochar| | | | |
-| |Mineral fertilizer|Mineral fertilizer|Compost|Compost|
-|biochar| | | | |
+| |biochar| |biochar| |
+|250|400|1|8|250|
+|150|1200|300|8|2|
+|100|1|5|200g|50|
+|50| | | | |
+
+Fig. 3. Soil dissolved organic carbon and soil microbial biomass carbon after 6 years (March 2018) under different management practices (compost and mineral fertilizer), with and without walnut shell biochar amendment (0 and 10 ton ha-1). The error bars represent standard errors and bars with different letters indicate statistically significant (P < 0.05) differences.
 # D. Wang et al.
 
 # Geoderma 427 (2022) 116117
@@ -189,10 +194,14 @@ A 14-month lab incubation study using similar soil and the same biochar (with ap
 
 | |2.5x109 P<0.05|2.5x109 P= 0.006|
 |---|---|---|
-|8 Sx108|2|Large Macroaggregates|
-|g|2|Small Macroaggregates|
-|8 Ix108|3 Ix108|Microaggregates|
-|2x102|Mineral Fertilizer|Compost Biochar|
+|Aggregate Size|Large Macroaggregates|Small Macroaggregates|
+| |Microaggregates| |
+| |g|2|
+| |8 Sx108|8 Sx108|
+| |2| |
+| |8 Ix108|3 Ix108|
+| |Silt & Clay| |
+| |Mineral Fertilizer|Compost Biochar|
 
 # Fig. 5
 
@@ -200,44 +209,26 @@ Internal transcribed spacer (ITS) copy number after 6 years (March 2018) under d
 
 | |P<0.05|P< 0.0001|
 |---|---|---|
-|4x107|8 3x107|Aggregate Size|
-|2|Large Macroaggregates| |
-|@ 2x102|Small Macroaggregates| |
-|8|Microaggregates Clay|Silt &|
-|Ix107|Mineral Fertilizer|Compost Biochar|
+|Aggregate Size|Large Macroaggregates|Small Macroaggregates|
+| |Microaggregates Clay| |
+| |8 3x107|8 3x107|
+| |2| |
+| |2x107|2x106|
+| |1x107| |
+| |Mineral Fertilizer|Compost Biochar|
 
 erosion (Gelardi et al., 2019), or vertical movement (Singh et al., 2015), thus decreasing their impact on soil properties. The walnut shell biochar contains some fine particles, which can be readily mobilized during irrigation events in the first growing season. We observed some fine biochar particles in the surface runoff during furrow irrigation at the beginning of the field trial.
 
 # 4.2. Interactions between agricultural management, soil structure and soil aggregate-associated microbial communities
 
 Our findings suggest that continuous compost addition can potentially generate a positive feedback loop for enhancing soil C storage by increasing microbially-available substrates, in turn increasing and maintaining soil microbial biomass, and thereby increasing aggregation through microbial activities. Soils received ~60% more C in the
-
-7
 # D. Wang et al.
 
 # Geoderma 427 (2022) 116117
 
-# Fig. 6
+Fig. 6. Weighted average 16S rRNA gene (a) and internal transcribed spacer (ITS) copy numbers (b) in bulk soil after 6 years (March 2018) under different management practices. The with/without biochar treatments under the same fertilizer treatment were combined and compared since there was no significant difference between with/without biochar treatments and there was no interaction between fertilizer treatment and biochar treatment. The error bars represent standard errors and bars with different letters indicate statistically significant (P &lt; 0.05) differences.
 
-Weighted average 16S rRNA gene (a) and internal transcribed spacer (ITS) copy numbers (b) in bulk soil after 6 years (March 2018) under different management practices. The with/without biochar treatments under the same fertilizer treatment were combined and compared since there was no significant difference between with/without biochar treatments and there was no interaction between fertilizer treatment and biochar treatment. The error bars represent standard errors and bars with different letters indicate statistically significant (P < 0.05) differences.
-
-|2.E+09|1.E+09|
-|---|---|
-|1.E+08|631.E+061,.E+07|
-|6.E+08|231.E+051,.E+04|
-|1,.E+02|1,.E+01|
-|1.E+00|O.E+00|
-
-# Fig. 7
-
-Nonmetric multidimensional scaling (NMDS) analysis of soil microbial communities with ESVs (triangles indicated samples from mineral fertilizer treatments, circles indicated samples from compost treatments) after 6 years (March 2018). Different colors and symbols represent different water-stable aggregate fractions.
-
-# Aggregate Size
-
-|Macroaggregates|Microaggregates|Clay|Silt &|
-|---|---|---|---|
-|0.10|0.05|0.00|~0.05|
-|~0.1|MDST|0.0| |
+Fig. 7. Nonmetric multidimensional scaling (NMDS) analysis of soil microbial communities with ESVs (triangles indicated samples from mineral fertilizer treatments, circles indicated samples from compost treatments) after 6 years (March 2018). Different colors and symbols represent different water-stable aggregate fractions.
 
 Compost-amended than mineral fertilizer treatments. Compost also contains a diverse range of C sources for soil microbes (Barker, 1997), and its addition helped maintain higher soil labile C (Fig. 3a) and microbial biomass (Fig. 3b) compared to in the mineral fertilizer treatments. The compost-induced increase in soil microbial biomass also corroborated our findings of increased 16S rRNA gene and ITS copy numbers across aggregate size fractions (Figs. 4 and 5) and in weighted bulk soil averages (Fig. 6). Compost amendment enhanced soil aggregation by providing a large amount of labile C (Amlinger et al., 2003) as feedstock for microbes to produce extracellular polymeric substances, which can serve as binding agents for soil aggregates (J C Blankinship et al., 2016; Miltner et al., 2012). The increased fungal biomass (Figs. 5 and 6) can also promote soil aggregation by binding and entangling soil particles to form macroaggregate structure (Van Der Heijden et al., 2006). Enhanced soil aggregation provides more diverse habitats for organisms, which can lead to increases in soil microbial diversity (Briar et al., 2011). Furthermore, the soil aggregate structure can enhance the interactions within microbial consortia responsible for metabolizing complex organic compounds (Wilpiszeski et al., 2019). The shift we observed in bacterial communities in different aggregate size fractions (Fig. 7) provides evidence for the paradigm that unique aggregate microenvironments can provide niches to support the development of distinct microbial communities, which can further benefit soil and ecosystem properties (Bach et al., 2018; Wilpiszeski et al., 2019).
 
@@ -248,9 +239,9 @@ Across all aggregate size fractions, we also observed distinct differences in pr
 
 # Aromatic Compound Degradation
 
-P = 0.00019
+P= 0.00019
 
-P < 0.05
+P<0.05
 
 | |400|300|200|100|
 |---|---|---|---|---|
@@ -258,7 +249,8 @@ P < 0.05
 |Silt & Clay| | | | |
 |Microaggregates| | | | |
 |Small Macroaggregates| | | | |
-|Mineral Fertilizer|Mineral Fertilizer|Compost|Compost|Biochar|
+|Mineral Fertilizer|Mineral|Compost|Compost Biochar| |
+|Compost Fertilizer| | | | |
 
 Fig. 8. Faprotax predictive assignment of abundance of bacteria capable of degrading aromatic C compounds based on the 16S sequencing after 6 years (March 2018). In Fig. 8(b), the with/without biochar treatments under the same fertilizer treatment were combined and compared since there was no significant difference between with/without biochar treatments and there was no interaction between fertilizer treatment and biochar treatment. The error bars represent standard errors and bars with different letters indicate statistically significant (P < 0.05) differences.
 
@@ -266,7 +258,7 @@ Potentially enlarge the active C pool in the agroecosystem which, in turn, could
 
 Compost application may have increased macroaggregate formation by maintaining higher fungal populations across aggregate fractions. Although both bacteria and fungi populations were higher in the compost than mineral fertilizer treatments (Figs. 5 and 6), the difference in fungal abundance was two orders of magnitudes higher in compost than mineral fertilizer treatments (Fig. 6b). Higher fungal biomass density has been linked with increased soil aggregate formation (Lehmann et al., 2020) and fungi have been suggested to contribute more than prokaryotic communities to macroaggregate formation due to the enmeshing properties of their hyphae (Lehmann et al., 2017). The major difference in aggregation between the mineral fertilizer and compost treatments was due to the loss of large-macroaggregates under mineral fertilizer (Table 1), which suggested that the differences in fungal community abundance could have been a major contributor to the observed differences in soil structure. Similar to our finding, Li et al. (2019) in a long-term field study in Guizhou, China, reported that soil fungal abundances across aggregate fractions were maintained when mineral fertilizer was supplemented with manure but decreased in the absence of amendments; aggregate-associated C content also declined. Increased macroaggregate structure in compost treatments can, in turn, enhance the resistance of soil microbial habitats to environmental disturbances (Rillig et al., 2017). Our results support the hypothesis that impacts of management practices on soil C are dependent on changes in soil aggregation and aggregate-associated microbial communities (Trivedi et al., 2017). As shown in Table S1 and summarized in Griffin et al. (2017), despite the benefits associated with soil aggregation and C dynamics, crop yield in compost treatments were significantly lower than those in mineral fertilizer treatments due to the uncertainty of nitrogen availability in compost amended soil and the asynchronous nitrogen supply and demand, which is a common tradeoff for similar practices (Seufert et al., 2012).
 
-Interestingly, we found no effect of walnut shell biochar on soil microbial community composition or any soil parameters in our study, unlike what has been observed in previous studies investigating at other types of biochar (Jiang et al., 2016; Khodadad et al., 2011; Zhu et al., 2019). This may be due to the differences in biochar feedstock, pyrolysis conditions, soil and other environmental factors, or the fact that biochar under field conditions behaves differently than in the lab (Islam et al., 2021). It is possible that biochars produced at high temperatures (900 °C) contain little labile organic C compared to low temperature biochar and hence are not capable of supporting growth of microbial populations. Another explanation for the lack of impact may be the limited accessibility of biochar pores to microbes, despite its relatively high surface area and pore volume (Mukome et al., 2013a). The inter-particle pore structure in biochar is rapidly filled by soil particles after addition to soil (Lehmann and Joseph, 2015). Joseph et al. (2010) found that biochar internal pores started to fill in with organic and mineral matter after 1 year and most pores were filled 2 years after application in a field experiment. Ameloot et al. (2014) also found that biochar stopped serving as microbial substrate soon after application (~60 days) and had little long-term impact on soil microbial biomass and activities under field conditions. While previous studies have shown that biochar can alter soil microbial communities and potentially increase microbial interactions, most of these studies have been conducted in highly weathered oxisols with limited impacts observed in soils with high fertility (Yu et al., 2018). We speculate that soil amendments with higher amounts of non-pyrolyzed and/or microbially-available organic C can help achieve agricultural management targets, such as enhancing soil aggregation and C storage more effectively.
+Interestingly, we found no effect of walnut shell biochar on soil microbial community composition or any soil parameters in our study, unlike what has been observed in previous studies investigating at other types of biochar (Jiang et al., 2016; Khodadad et al., 2011; Zhu et al., 2019). This may be due to the differences in biochar feedstock, pyrolysis conditions, soil and other environmental factors, or the fact that biochar under field conditions behaves differently than in the lab (Islam et al., 2021). It is possible that biochars produced at high temperatures (900 ◦C) contain little labile organic C compared to low temperature biochar and hence are not capable of supporting growth of microbial populations. Another explanation for the lack of impact may be the limited accessibility of biochar pores to microbes, despite its relatively high surface area and pore volume (Mukome et al., 2013a). The inter-particle pore structure in biochar is rapidly filled by soil particles after addition to soil (Lehmann and Joseph, 2015). Joseph et al. (2010) found that biochar internal pores started to fill in with organic and mineral matter after 1 year and most pores were filled 2 years after application in a field experiment. Ameloot et al. (2014) also found that biochar stopped serving as microbial substrate soon after application (~60 days) and had little long-term impact on soil microbial biomass and activities under field conditions. While previous studies have shown that biochar can alter soil microbial communities and potentially increase microbial interactions, most of these studies have been conducted in highly weathered oxisols with limited impacts observed in soils with high fertility (Yu et al., 2018). We speculate that soil amendments with higher amounts of non-pyrolyzed and/or microbially-available organic C can help achieve agricultural management targets, such as enhancing soil aggregation and C storage more effectively.
 
 # 5. Conclusion
 
@@ -307,7 +299,7 @@ Bach, E.M., Williams, R.J., Hargreaves, S.K., Yang, F., Hofmockel, K.S., 2018. G
 
 Bailey, V.L., McCue, L.A., Fansler, S.J., Boyanov, M.I., DeCarlo, F., Kemner, K.M., Konopka, A., 2013. Micrometer-scale physical structure and microbial composition of soil macroaggregates. Soil Biol. Biochem. 65, 60–68. https://doi.org/10.1016/j.soilbio.2013.02.005.
 
-Barker, A. V, 1997. Composition and Uses of Compost, in: Agricultural Uses of By-Products and Wastes. American Chemical Society, pp. 140–162. doi:10.1021/bk-1997-0668.ch010.
+Barker, A. V, 1997. Composition and Uses of Compost, in: Agricultural Uses of By-Products and Wastes. American Chemical Society, pp. 140–162. doi:10.1021/bk-1997-0668.ch01010.1021/bk-1997-0668.ch010.
 
 Blankinship, J.C., Fonte, S.J., Six, J., Schimel, J.P., 2016. Plant versus microbial controls on soil aggregate stability in a seasonally dry ecosystem. Geoderma 272, 39–50. https://doi.org/10.1016/j.geoderma.2016.03.008.
 
@@ -317,9 +309,9 @@ Briar, S.S., Fonte, S.J., Park, I., Six, J., Scow, K., Ferris, H., 2011. The dis
 
 Bronick, C.J., Lal, R., 2005. Soil structure and management: a review. Geoderma 124, 3–22.
 
-Callahan, B.J., McMurdie, P.J., Rosen, M.J., Han, A.W., Johnson, A.J.A., Holmes, S.P., 2016. DADA2: High-resolution sample inference from Illumina amplicon data. Nat. Methods 13, 581. https://doi.org/10.1038/nmeth.3869.
+Callahan, B.J., McMurdie, P.J., Rosen, M.J., Han, A.W., Johnson, A.J.A., Holmes, S.P., 2016. DADA2: High-resolution sample inference from Illumina amplicon data. Nat. Methods 13, 581. https://doi.org/10.1038/nmeth.3869https://www.nature.com/articles/nmeth.3869#supplementary-information.
 
-Caporaso, J.G., Lauber, C.L., Walters, W.A., Berg-Lyons, D., Huntley, J., Fierer, N., Owens, S.M., Betley, J., Fraser, L., Bauer, M., Gormley, N., Gilbert, J.A., Smith, G., Knight, R., 2012. Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms. Isme J. 6, 1621. https://doi.org/10.1038/ismej.2012.8.
+Caporaso, J.G., Lauber, C.L., Walters, W.A., Berg-Lyons, D., Huntley, J., Fierer, N., Owens, S.M., Betley, J., Fraser, L., Bauer, M., Gormley, N., Gilbert, J.A., Smith, G., Knight, R., 2012. Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms. Isme J. 6, 1621. https://doi.org/10.1038/ismej.2012.8https://www.nature.com/articles/ismej20128#supplementary-information.
 
 Cheng, C., Lehmann, J., Thies, J.E., Burton, S.D., 2008. Stability of black carbon in soils across a climatic gradient. J. Geophys. Res. Biogeosciences 113.
 

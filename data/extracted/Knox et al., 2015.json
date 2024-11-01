@@ -14,7 +14,7 @@
           "measurement_value": 341.0,
           "measurement_name": "Net CO2 emission",
           "measurement_year": "2012-2013",
-          "measurement_depth": "0-20 cm",
+          "measurement_depth": "Topsoil (<20 cm)",
           "measurement_unit": "g C m2 yr-1",
           "group": "control"
         },
@@ -22,7 +22,7 @@
           "measurement_value": 5.84,
           "measurement_name": "CH4 emission",
           "measurement_year": "2012-2013",
-          "measurement_depth": "0-20 cm",
+          "measurement_depth": "Topsoil (<20 cm)",
           "measurement_unit": "g C m2 yr-1",
           "group": "control"
         }
@@ -38,7 +38,7 @@
           "measurement_value": 278.0,
           "measurement_name": "Net CO2 emission",
           "measurement_year": "2012-2013",
-          "measurement_depth": "0-20 cm",
+          "measurement_depth": "Topsoil (<20 cm)",
           "measurement_unit": "g C m2 yr-1",
           "group": "control"
         }
@@ -54,7 +54,7 @@
           "measurement_value": 50.0,
           "measurement_name": "Net CO2 emission",
           "measurement_year": "2012-2013",
-          "measurement_depth": "0-20 cm",
+          "measurement_depth": "Topsoil (<20 cm)",
           "measurement_unit": "g C m2 yr-1",
           "group": "treatment"
         },
@@ -62,7 +62,7 @@
           "measurement_value": 5.3,
           "measurement_name": "CH4 emission",
           "measurement_year": "2012-2013",
-          "measurement_depth": "0-20 cm",
+          "measurement_depth": "Topsoil (<20 cm)",
           "measurement_unit": "g C m2 yr-1",
           "group": "treatment"
         }
@@ -78,7 +78,7 @@
           "measurement_value": 368.0,
           "measurement_name": "Net CO2 emission",
           "measurement_year": "2012-2013",
-          "measurement_depth": "0-20 cm",
+          "measurement_depth": "Topsoil (<20 cm)",
           "measurement_unit": "g C m2 yr-1",
           "group": "treatment"
         },
@@ -86,7 +86,7 @@
           "measurement_value": 53.0,
           "measurement_name": "CH4 emission",
           "measurement_year": "2012-2013",
-          "measurement_depth": "0-20 cm",
+          "measurement_depth": "Topsoil (<20 cm)",
           "measurement_unit": "g C m2 yr-1",
           "group": "treatment"
         }
@@ -102,7 +102,7 @@
           "measurement_value": 397.0,
           "measurement_name": "Net CO2 emission",
           "measurement_year": "2012-2013",
-          "measurement_depth": "0-20 cm",
+          "measurement_depth": "Topsoil (<20 cm)",
           "measurement_unit": "g C m2 yr-1",
           "group": "treatment"
         },
@@ -110,7 +110,7 @@
           "measurement_value": 38.7,
           "measurement_name": "CH4 emission",
           "measurement_year": "2012-2013",
-          "measurement_depth": "0-20 cm",
+          "measurement_depth": "Topsoil (<20 cm)",
           "measurement_unit": "g C m2 yr-1",
           "group": "treatment"
         }

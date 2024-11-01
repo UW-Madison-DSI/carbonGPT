@@ -29,7 +29,7 @@ This is an open access article under the terms of the Creative Commons Attributi
 © 2024 The Authors. Soil Science Society of America Journal published by Wiley Periodicals LLC on behalf of Soil Science Society of America.
 
 354 wileyonlinelibrary.com/journal/saj2 Soil Sci. Soc. Am. J. 2024;88:354–370.
-14350661, 2024, 2, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions https://onlinelibrary.wiley.com/terms-and-conditions on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+14350661, 2024, 2, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 # VILLA ET AL.
 
@@ -51,7 +51,7 @@ The rate at which SOC is mineralized to the atmosphere is determined by soil phy
 - Negative correlations between C and Ca2+ in amended soils indicate biosolids interact with C.
 - Accounting for deep soil C demonstrated the importance of assessing the climate change mitigation potential of managed soil.
 
-C and N are to microbes (Powlson et al., 2012; Ryals et al., 2014; Swanston et al., 2005). For this study, bulk soil C and N were partitioned into three fractions using a physical density fractionation procedure (Ryals et al., 2014; Swanston et al., 2005). These fractions are the free-light fraction (FLF), the physically protected occluded-light fraction (OLF), and the mineral-associated heavy fraction (HF).
+For this study, bulk soil C and N were partitioned into three fractions using a physical density fractionation procedure (Ryals et al., 2014; Swanston et al., 2005). These fractions are the free-light fraction (FLF), the physically protected occluded-light fraction (OLF), and the mineral-associated heavy fraction (HF).
 
 In addition, current understanding suggests other physicochemical parameters may be better predictors than clay content in order to determine the stability of SOC (Rasmussen et al., 2018). Studies have indicated that SOC content may be related to extractable metals and exchangeable cations, emphasizing that clay content is not always correlated with the persistence of SOC (Kaiser & Guggenberger, 2000; Rasmussen et al., 2006). Rasmussen et al. (2018) synthesized over 5500 soil profiles and confirmed that other soil physicochemical properties predict SOM stabilization better than clay. They found that soil pH has an important, but complicated, influence on SOM content (Rasmussen et al., 2018).
 
@@ -84,23 +84,19 @@ Note: The data presented are on a dry weight basis; values were averaged; standa
 
 # VILLA ET AL.
 
-# 2. Methods
+the mass of the soil was multiplied by the SOC or total N concentration of that soil sample layer. These data were then fitted to a cubic spline to determine SOC and total N mass per area (Wendt & Hauser, 2013). Transect starting points and bearings were randomly selected from within each field, excluding a 5-m buffer from edges. A total of 900 soil samples were collected and transported to UC Merced for laboratory analysis. Total organic carbon (TOC) and total N concentrations were measured for all 900 samples as described in Villa and Ryals (2021). Soils were tested for effervescence upon the addition of 4 N HCl, indicating the presence of soil inorganic carbon (SIC) (Harris et al., 2001). Effervescence was only detected at the Merced site where SIC accounted for ∼22% of the total C (Villa & Ryals, 2021). One paired transect (amended treatment and an unamended control) with the highest relative change was selected per site for density fractionations (n = 3).
 
-# 2.1 Soil Sampling
-
-The mass of the soil was multiplied by the SOC or total N concentration of that soil sample layer. These data were then fitted to a cubic spline to determine SOC and total N mass per area (Wendt & Hauser, 2013). Transect starting points and bearings were randomly selected from within each field, excluding a 5-m buffer from edges. A total of 900 soil samples were collected and transported to UC Merced for laboratory analysis. Total organic carbon (TOC) and total N concentrations were measured for all 900 samples as described in Villa and Ryals (2021). Soils were tested for effervescence upon the addition of 4 N HCl, indicating the presence of soil inorganic carbon (SIC) (Harris et al., 2001). Effervescence was only detected at the Merced site where SIC accounted for ∼22% of the total C (Villa & Ryals, 2021). One paired transect (amended treatment and an unamended control) with the highest relative change was selected per site for density fractionations (n = 3).
-
-# 2.2 Density Fractionations
+# 2.2 Density fractionations
 
 A subset of sampled depth intervals (0–10, 30–50, and 75–100 cm) from each paired transect were selected for analysis with density fractionation due to the high cost and time required for this method. Samples were density separated at 1.85 g·cm−3 as described in Swanston et al. (2005), which separates bulk soil into three fractions to provide information on the potential turnover times of C and N in soils. The organic matter in the FLF closely resembles plant material that is “free floating” in the soil matrix and not protected by mineral surfaces. This material is more easily mineralizable to microbes and often has the fastest turnover time (Marín-Spiotta et al., 2008; Swanston et al., 2005). The OLF contains C and N that are physically protected in soil aggregates. This makes it more difficult for decomposers to access it; hence, this fraction tends to have a slower turnover time than that of FLF. The HF contains C and N that are bound to mineral surfaces such as clay and metals. Typically, HF has the longest residence time compared to FLF and OLF.
 
 Briefly, 20 g of soil was gently mixed with 75 mL of sodium polytungstate prepared to a density of 1.85 g·cm−3. After centrifuging for 1 h at 3500 rpm on an 18-cm-radius centrifuge rotor, the FLF was aspirated off, filtered through a 0.8-μm polycarbonate membrane filter (Whatman Nuclepore Track Etch Membrane), rinsed with deionized (DI) water five times, dried at 50˚C for 48 h, and then weighed. The remaining sample was then mixed, sonicated at 70% pulse for 3 min, and then centrifuged for 1 h at 4000 rpm. The OLF was aspirated off, filtered, rinsed five times with DI water, dried at 50˚C for 48 h, and then weighed. The remaining soil pellet, known as the HF, was mixed with DI water, centrifuged five times, dried at 150˚C for 24 h, and then weighed.
 
-# 2.3 Total C and N of Fractions
+# 2.3 Total C and N of fractions
 
 Fractions were analyzed for TOC and total N on the Costech ECS 4010 CHNS-O Elemental Analyzer coupled to a Thermo Scientific Delta-V Plus continuous flow isotope ratio mass spectrometer at the Stable Isotope Ecosystem Laboratory of UC Merced. The HF from the Merced site was treated further using the acid fumigation method due to the presence of inorganic C (Harris et al., 2001). Acid-treated HFs were analyzed on the elemental analyzer to determine the concentration of SOC. SIC was calculated by subtracting the acid-treated C concentrations from total soil C concentrations.
 
-# 2.4 Organometal Complexes in HFs
+# 2.4 Organometal complexes in HFs
 
 The HF was used for organomineral extractions following Heckman et al. (2018). Briefly, 40 mL of 0.1 M sodium pyrophosphate was added to 1 g of air-dried ground sample and shaken for 16 h. Then, samples were centrifuged at 20,000 rpm on an 18-cm-radius centrifuge for 20 min. Then, the extraction was decanted and filtered through a 0.2-μm Whatman GD/X gradient syringe nylon membrane filter into 50-mL falcon tubes. Filtered extracts were then stored at −20˚C until they were ready for analyses. Extractants were diluted with DI at a 1:50 ratio and analyzed on an Inductively Coupled Plasma Atomic Emission Spectrometry (ICP-AES) for Fe and Al at the UC Davis Analytical Laboratory.
 
@@ -108,7 +104,7 @@ The HF was used for organomineral extractions following Heckman et al. (2018). B
 
 The HF from the Merced site was analyzed for extractable Ca2+ concentrations using the barium method (buffered to pH 7.0) at the UC Davis Analytical Laboratory (https://anlab.ucdavis.edu/analysis/Soils/430; Rible & Quick, 1960). This extraction procedure was only done for soils in the Merced site since inorganic C was not detected at the Sacramento and Solano sites.
 
-# 2.6 Statistical Analyses
+# 2.6 Statistical analyses
 
 The results of this study are presented as treatment means (± standard errors). Shapiro–Wilk tests were used to determine the normality of data for all analyses. Tukey’s post hoc tests were used for determining interactions between factors. A three-way repeated measures analysis of variance (ANOVA) was performed on density fraction samples and organometal extractions between depths to determine the effects of treatment, fraction, and site between depths. The determination of contributions of TOC and total N from each
 14350661, 2024, 2, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
@@ -130,12 +126,14 @@ The C content in the deep soil layer (75–100 cm) showed significant difference
 # 3.2.1 Effect size
 
 The effect size demonstrates the strength of the relationship between C content and biosolids application, where positive effect size values indicate that biosolids application increases C, negative values indicate a C loss with biosolids application.
+14350661, 2024, 2, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
 # VILLA ET AL.
 
 # Table 2 Treatment differences between depth, fraction, and site in (a) carbon and (b) nitrogen.
 
 |Site|Treatment|Depth|Carbon (Mg C·ha−1)|Carbon (Mg C·ha−1)|Carbon (Mg C·ha−1)|Nitrogen (Mg N·ha−1)|Nitrogen (Mg N·ha−1)|Nitrogen (Mg N·ha−1)|
-|---|---|---|---|---|
+|--------------|-----------|---------|--------------------------|--------------------------|--------------------------|----------------------------|----------------------------|---------------------------|
 |Sacramento|Biosolids|0–10|22.00 ± 5.86|2.29 ± 0.29|1.38 ± 0.38|2.47 ± 0.47|0.37 ± 0.09|0.16 ± 0.03|
 |Sacramento|Control|0–10|7.84 ± 0.22|8.86 ± 1.44|3.84 ± 0.21|0.80 ± 0.19|0.70 ± 0.10|0.53 ± 0.04|
 |Solano|Biosolids|0–10|21.61 ± 1.18|8.95 ± 7.35|4.11 ± 0.61|3.29 ± 0.40|0.72 ± 0.59|0.62 ± 0.08|
@@ -181,6 +179,9 @@ At the Sacramento site, TOC was positively associated with Fe and Al at all dept
 |Solano|Biosolids|0–10|0.44 ± 0.19|0.54 ± 0.20|2.05 ± 0.13|3.78|r = −0.11|4.69|r = −0.05|
 | |Biosolids|30–50|0.22 ± 0.20|0.21 ± 0.15|1.73 ± 0.10|8.38|r = −0.99*|7.83|r = −1.00***|
 |Biosolids| |75–100|0.1 ± 0.14|0.07 ± 0.10|0.73 ± 0.10|9.88|r = 0.761|7.42|r = 0.23|
+|Solano|Control|0–10|0.31 ± 0.32|0.36 ± 0.29|2.15 ± 1.73|5.97|r = 0.41|7.00|r = −0.69|
+| |Control|30–50|0.26 ± 0.44|0.19 ± 0.28|0.85 ± 0.27|4.56|r = 0.02|3.29|r = 0.05|
+|Control| |75–100|0.22 ± 0.05|0.03 ± 0.06|0.61 ± 0.04|18.28|r = 0.23|2.77|r = 0.40|
 |Merced|Biosolids|0–10|0.01 ± 0.14|0.03 ± 0.12|1.8 ± 0.22|53.79|r = 0.45|217.41|r = 0.359|
 | |Biosolids|30–50|0.00 ± 0.04|0.01 ± 0.02|0.86 ± 0.08|63.84|r = 0.62|NA|NA|
 |Biosolids| |75–100|0.02 ± 0.03|0.01 ± 0.02|0.55 ± 0.17|50.52|NA|30.74|r = 0.94|
@@ -197,9 +198,9 @@ Note: Ratios of TOC/Fe and TOC/Al and Pearson correlations are shown. NA values 
 |---|---|---|
 |Treatment: 0.36|Treatment: 0.52| |
 |Site:|Site: p=0.43| |
-|Treatment Site:|Fraction: 0.001 0.01| |
-|Treatment Fraction: p=0.02|Site Fraction: p<0.001| |
-|Treatment Site Fraction:| | |
+|Treatment Site: Fraction- 0.001 0.01|Treatment Site: Fractions: <0.001| |
+|Treatment Fraction: p= 0.02|Site Fraction: p < 0.001| |
+|Treatment Site Fraction: U_Uu|Fractions|J1|
 |Control|Biosolids|Control|
 |Biosolids|Control|Biosolids|
 
@@ -207,10 +208,10 @@ Note: Ratios of TOC/Fe and TOC/Al and Pearson correlations are shown. NA values 
 
 |Sacramento|Solano|Merced|
 |---|---|---|
-|Treatment: 0.69|Site: p=0.95| |
-|Site: Fraction: 0.01|Treatment: Fraction: 0.36| |
-|p=0.51|Site Fraction:| |
-|Treatment Site Fraction: 0.65| | |
+|Treatment: 0.69| | |
+|Site: Fraction; 0.01|Treatment: Site: Treatment; Fraction; 0.36| |
+|Site Fraction;|Treatment: Site Fraction: 0.65| |
+|Fractions|OLF|J|
 |Control|Biosolids|Control|
 |Biosolids|Control|Biosolids|
 
@@ -219,9 +220,10 @@ Note: Ratios of TOC/Fe and TOC/Al and Pearson correlations are shown. NA values 
 |Sacramento|Solano|Merced|
 |---|---|---|
 |Fraction: 0.08 0.01|Treatment: 0.09| |
-|Treatment Site|Fraction: p<0.001|0.33|
-|Treatment Fraction:|p=0.46| |
-|Site Fraction: p=0.23|Treatment Site Fraction: 0.77| |
+|Treatment Site|Fraction: p < 0.001 0.33| |
+|Treatment Fraction: p=0.46|Site Fraction: p= 0.23| |
+|Treatment Site-Fraction 0.77| | |
+|Fractions|FLF|OLF|
 |Control|Biosolids|Control|
 |Biosolids|Control|Biosolids|
 
@@ -236,9 +238,9 @@ The contribution of three soil fractions to total soil N content: (a) 0–10 cm,
 
 | |0-10 cm|30-50 cm|75-100 cm|
 |---|---|---|---|
-|Sacramento|Fraction: 0.19|Fraction: 0.74|Fraction: 0.25|
-|Solano|Fraction: 0.03|Fraction: 0.66|Fraction: 0.43|
-|Merced|Fraction: <0.01|Fraction: 0.05| |
+|Sacramento|Fraction: 0.19|Fraction: 0.74|Fraction: p = 0.25|
+|Solano|Fraction: 0.03|Fraction: 0.66|Sku: 0.43|
+|Merced|Fraction: <0.01|Fraction: 0.05|Fraction: 0.05|
 
 # Figure 3
 
@@ -253,38 +255,48 @@ The Merced site had weak correlations between TOC and Fe and Al for both treatme
 # Figure 4
 
 The treatment effect of biosolids application on total soil organic carbon storage for each soil fractions from the three depths: (a) 0–10 cm, (b) 30–50 cm, and (c) 75–100 cm. Error bars are standard errors. FLF, free-light fraction; OLF, occluded-light fraction; HF, heavy fraction.
-14350661, 2024, 2, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+14350661, 2024, 2, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License.
 
 # VILLA ET AL.
 
-# 363
+# 0-10 cm
 
-|Depth|Site|Fraction|Correlation|p-value|
-|---|---|---|---|---|
-|0-10 cm|Sacramento|Fraciion; 0 < 0.001|r = 0.99|p = 0.03|
-|0-10 cm|Solano|Site: p = 0.10|Fraclion Site: p < 0.001| |
-|30-50 cm|Sacramento|Fraction: = 0.43|r = 0.94|p = 0.22|
-|30-50 cm|Merced|Site:|r = 0.03|p = 0.98|
-|75-100 cm|Sacramento|Fraciion: _20.87|r = -0.88|p = 0.31|
-|75-100 cm|Merced|Site: p = 0.52|r = 0.31|p = 0.80|
+relation between TOC and Al in the biosolids-amended soil
+
+|Site|Sacramento|Solano|Merced|
+|---|---|---|---|
+|Fraction|0 < 0.001|p = 0.10|p < 0.001|
+
+Some concentrations of Fe and Al were undetectable and Pearson correlations could not be performed (controls: TOC:Al from 0 to 10 cm; TOC:Al from 30 to 50 cm; TOC:Fe/Al from 75 to 100 cm; biosolids: TOC:Al from 30 to 50 cm; TOC:Fe from 75 to 100 cm).
+
+# 30-50 cm
+
+Stronger correlations between Ca2+ and SOC concentration were observed from the control HF compared to the long-term amended soils across all depths (Figure 6). Correlations were strongest at the 0–10 cm depth for each treatment compared to other depths where the control had a correlation coefficient of 0.94 (p = 0.22) and the biosolids amended had a correlation coefficient of 0.03 (p = 0.98). The 30–50 cm depth showed a slight negative correlation in the amended soils (R2 = −0.09, p = 0.93), but positive correlations in the control soils (r = 0.47, p = 0.70). Finally, the 75–100 cm depth showed strong negative correlations in the biosolids soil (r = −0.88, p = 0.31), and the control showed a minimal correlation between Ca2+ and SOC concentration, though not negative (r = 0.31, p = 0.80).
+
+# 75-100 cm
 
 # 4 DISCUSSION
 
 # 4.1 Effects of long-term biosolids applications on soil density fractionations
 
-Fractionation techniques are a valuable tool that can provide indications of the fate of the C and N from organic matter amendments and the long-term C storage potential of a soil (Grunwald et al., 2017; Ryals et al., 2014). Our study found that relative proportions of C and N found in each fraction differed along depths, sites, and treatments. Effect sizes across our study show the impact of how biosolids application and measuring deep soil C can provide a better assessment of the C sequestration potential of a soil. The effect sizes of both C and N in the FLF increased in surface soils and strengthened in deeper soil layers, even though biosolids are only incorporated to 30 cm. Across all fractions, the effect sizes increased in the 75–100 cm depth, indicating a stronger relationship among depth, C, and N (Figure 3a,b). As SOC and total N move to subsoils, the turnover rate tends to decrease, thus remaining for longer periods of time (Hicks Pries et al.,
-# VILLA ET AL.
+Fractionation techniques are a valuable tool that can provide indications of the fate of the C and N from organic matter amendments and the long-term C storage potential of a soil (Grunwald et al., 2017; Ryals et al., 2014). Our study found that relative proportions of C and N found in each fraction differed along depths, sites, and treatments. Effect sizes across our study show the impact of how biosolids application and measuring deep soil C can provide a better assessment of the C sequestration potential of a soil. The effect sizes of both C and N in the FLF increased in surface soils and strengthened in deeper soil layers, even though biosolids are only incorporated to 30 cm. Across all fractions, the effect sizes increased in the 75–100 cm depth, indicating a stronger relationship among depth, C, and N (Figure 3a,b). As SOC and total N move to subsoils, the turnover rate tends to decrease, thus remaining for longer periods of time (Hicks Pries et al.,).
 
-# C mols Fe+AI mols
+# FIGURE 5
 
-| |0-10|30-50|75-100|
-|---|---|---|---|
-|Treatment|1|1| |
-|Control| | | |
-|Biosolids| | | |
-|Sacramento| | | |
-|Solano| | | |
-|Merced| | | |
+Treatment effect on total soil N content for each soil fraction across depths: (a) 0–10 cm, (b) 30–50 cm, and (c) 75–100 cm.
+
+FLF, free-light fraction; OLF, occluded-light fraction; HF, heavy fraction.
+# 14350661, 2024, 2
+
+Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License.
+
+# 364 VILLA ET AL.
+
+|C mols Fe+Al mols|mols Fe+Al mols|mols Fe+Al mols|mols Fe+Al mols|mols Fe+Al mols|mols Fe+Al mols|mols Fe+Al mols| | | | | | |
+|---|---|---|---|---|---|---|---|
+|100|150|200|250|300|350|400| |
+|0-10|30-50-|1|1|75-100.|75-100|Treatment|Treatment|
+|Control|Biosolids|Sacramento|Solano|Merced| | | |
 
 F I G U R E 6 Moles of C per moles of M (Fe + Al).
 
@@ -308,7 +320,7 @@ Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by
 
 # 4.3 Biosolids application influences C associations to Ca2+ in the Merced site
 
-Mechanisms that influence how Ca2+ interacts with SOC are influenced by high pH in soils where positively charged ions are increasingly adsorbed to surfaces with variable charges such as clays, iron and aluminum oxides, and SOM (Solly et al., 2020; Weil & Brady, 2017). At the Merced site, soils had a pH of 8 from 0 to 100 cm and a high percentage of SIC (∼22% of total C) in the form of calcium carbonate (CaCO3) (Villa & Ryals, 2021). Studies in unmanaged soils have found strong correlations between Ca2+ and SOC content and stabilization (Martí-Roura et al., 2019; Rowley et al., 2018, 2021; Solly et al., 2020). Hence, we considered the role Ca2+ play in C sequestration at the Merced site.
+Mechanisms that influence how Ca2+ interacts with SOC are influenced by high pH in soils where positively charged ions are increasingly adsorbed to surfaces with variable charges such as clays, iron and aluminum oxides, and SOM (Solly et al., 2020; Weil & Brady, 2017). At the Merced site, soils had a pH of 8 from 0 to 100 cm and a high percentage of SIC (∼22% of total C) in the form of calcium carbonate (CaCO3) (Villa & Ryals, 2021). Studies in unmanaged soils have found strong correlations between Ca2+ and SOC content and stabilization (Martí-Roura et al., 2019; Rowley et al., 2018, 2021; Solly et al., 2020). Hence, we considered the role Ca2+ plays in C sequestration at the Merced site.
 
 We hypothesized that the increasing SOC content from biosolids application would be correlated with Ca2+, hence indicating that the Ca2+ may be associated with SOC chemically or physically. However, we found the opposite to be true (Figure 7). In fact, there is an ascending negative correlation moving down the soil profile in the amended soil compared to the control, where there is a weaker positive correlation moving down in depth. SOM has a high abundance of negatively charged sites that can improve cation exchange capacity (CEC), thus increasing soil C content in soils by reacting as a surface area in the soil where SOC may be adsorbed (Solly et al., 2020). Some studies have found that the application of organic matter amendments increases SOC and CEC (Diacono & Montemurro, 2010). However, CEC is strongly associated with the available surface area of the soil (Farrar & Coleman, 1967; Solly et al., 2020), effectively influencing the ability of SOC to adsorb to reactive soil surfaces (Solly et al., 2020). One study found no significant increase of CEC in a coarse-textured almond orchard after the application of green waste compost and composted wood-chip manure (Villa et al., 2021). The Merced site has a uniform soil texture of sandy loam from 0 to 100 cm, and the percentage of sand ranged from 53% (0–10 cm) to 73% (Villa & Ryals, 2021).
 
@@ -317,7 +329,7 @@ The chemical composition of the biosolids could also contribute to the negative 
 # 4.4 Study limitations
 
 While a strength of this study is the evaluation of long-term (20 years) biosolids application on soil C and N fractions, it is important to acknowledge the limitations of this approach. One limitation is the variability in site conditions, including
-14350661, 2024, 2, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+14350661, 2024, 2, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions https://onlinelibrary.wiley.com/terms-and-conditions on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 # VILLA ET AL.
 
@@ -339,11 +351,11 @@ Rebecca Ryals: Conceptualization; data curation; funding acquisition; investigat
 
 We would like to thank Dr. Asmeret A. Berhe, Dr. Stephen C. Hart, and Dr. Samantha Ying for their feedback on the paper. We thank Ryan Batjiaka, our farming partners, and members of the San Francisco Public Utilities Commission.
 
-# C O N F L I C T         O F     I N T E R E S T S T A T E M E N T
+# C O N F L I C T O F I N T E R E S T S T A T E M E N T
 
 The authors declare no conflicts of interest.
 
-# D A T A AVA I L A B I L I T Y                  S T A T E M E N T
+# D A T A AVA I L A B I L I T Y S T A T E M E N T
 
 Data generated for this study can be found at https://doi.org/10.6071/M33X22. Any other information required is available from the corresponding author on reasonable request.
 
@@ -490,46 +502,21 @@ Solly, E. F., Weber, V., Zimmermann, S., Walthert, L., Hagedorn, F., & Schmidt, 
 Soong, J. L., Castanha, C., Hicks Pries, C. E., Ofiti, N., Porras, R. C., Riley, W. J., Schmidt, M. W. I., & Torn, M. S. (2021). Five years of whole-soil warming led to loss of subsoil carbon stocks and increased CO2 efflux. *Science Advances*, 7, Article eabd1343. https://doi.org/10.1126/sciadv.abd1343
 
 Stewart, C. E., Follett, R. F., Wallace, J., & Pruessner, E. G. (2012). Impact of biosolids and tillage on soil organic matter fractions: Implications of carbon saturation for conservation management in the
+# Carbon persistence of soils with long-term biosolids amendments in California agroecosystems
+
+Villa, Y. B., Phosalath, E., & Ryals, R. (2024). Soil Science Society of America Journal, 88, 354–370. https://doi.org/10.1002/saj2.20632
+
 # References
 
-14350661, 2024, 2, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions https://onlinelibrary.wiley.com/terms-and-conditions on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License.
+14350661, 2024, 2, Downloaded from https://acsess.onlinelibrary.wiley.com/doi/10.1002/saj2.20632 by University Of Wisconsin, Wiley Online Library on [25/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License.
 
-# VILLA ET AL.
-
-Virginia Coastal Plain. Soil Science Society of America Journal, 76, 1257–1267. https://doi.org/10.2136/sssaj2011.0165
-
-Swanston, C. W., Torn, M. S., Hanson, P. J., Southon, J. R., Garten, C. T., Hanlon, E. M., & Ganio, L. (2005). Initial characterization of processes of soil carbon stabilization using forest stand-level radio-carbon enrichment. Geoderma, 128, 52–62. https://doi.org/10.1016/j.geoderma.2004.12.015
-
-Tautges, N. E., Chiartas, J. L., Gaudin, A. C. M., O’Geen, A. T., Herrera, I., & Scow, K. M. (2019). Deep soil inventories reveal that impacts of cover crops and compost on soil carbon sequestration differ in surface and subsurface soils. Global Change Biology, 25, 3753–3766. https://doi.org/10.1111/gcb.14762
-
-Tian, G., Franzluebbers, A. J., Granato, T. C., Cox, A. E., & O’Connor, C. (2013). Stability of soil organic matter under long-term biosolids application. Applied Soil Ecology, 64, 223–227. https://doi.org/10.1016/j.apsoil.2012.12.001
-
-Tian, G., Granato, T. C., Cox, A. E., Pietz, R. I., Carlson, C. R., & Abedin, Z. (2009). Soil carbon sequestration resulting from long-term application of biosolids for land reclamation. Journal of Environmental Quality, 38, 61–74. https://doi.org/10.2134/jeq2007.0471
-
-Torri, S. I., Corrêa, R. S., & Renella, G. (2014). Soil carbon sequestration resulting from biosolids application. Applied and Environmental Soil Science, 2014, Article 821768. https://doi.org/10.1155/2014/821768
-
-Villa, Y. B., Khalsa, S. D. S., Ryals, R., Duncan, R. A., Brown, P. H., & Hart, S. C. (2021). Organic matter amendments improve soil fertility in almond orchards of contrasting soil texture. Nutrient Cycling in Agroecosystems, 120, 343–361. https://doi.org/10.1007/s10705-021-10154-5
-
-Villa, Y. B., & Ryals, R. (2021). Soil carbon response to long-term biosolids application. Journal of Environmental Quality, 50(5), 1084–1096. https://doi.org/10.1002/jeq2.20270
-
-von Haden, A. C., Yang, W. H., & DeLucia, E. H. (2020). Soils’ dirty little secret: Depth-based comparisons can be inadequate for quantifying changes in soil organic carbon and other mineral soil properties. Global Change Biology, 26, 3759–3770. https://doi.org/10.1111/gcb.15124
-
-Wang, M., Zhang, Y., Huang, Z., Xue, J., & Jesus Gutierrez-Gines, M. (2021). Limited potential of biosolids application for long-term soil carbon stabilization in coastal dune forests. Geoderma, 403, Article 115384. https://doi.org/10.1016/j.geoderma.2021.115384
-
-Weil, R., & Brady, N. (2017). The nature and properties of soils (15th ed.). Pearson.
-
-Wendt, J. W., & Hauser, S. (2013). An equivalent soil mass procedure for monitoring soil organic carbon in multiple soil layers. European Journal of Soil Science, 64, 58–65. https://doi.org/10.1111/ejss.12002
-
-West, T. O., & Post, W. M. (2002). Soil organic carbon sequestration rates by tillage and crop rotation. Soil Science Society of America Journal, 66, 1930–1946. https://doi.org/10.2136/sssaj2002.1930
-
-Wijesekara, H., Bolan, N. S., Thangavel, R., Seshadri, B., Surapaneni, A., Saint, C., Hetherington, C., Matthews, P., & Vithanage, M. (2017). The impact of biosolids application on organic carbon and carbon dioxide fluxes in soil. Chemosphere, 189, 565–573. https://doi.org/10.1016/j.chemosphere.2017.09.090
-
-Yost, J. L., & Hartemink, A. E. (2020). How deep is the soil studied – An analysis of four soil science journals. Plant and Soil, 452, 5–18. https://doi.org/10.1007/s11104-020-04550-z
+- Villa, Y. B., Khalsa, S. D. S., Ryals, R., Duncan, R. A., Brown, P. H., & Hart, S. C. (2021). Organic matter amendments improve soil fertility in almond orchards of contrasting soil texture. Nutrient Cycling in Agroecosystems, 120, 343–361. https://doi.org/10.1007/s10705-021-10154-5
+- Villa, Y. B., & Ryals, R. (2021). Soil carbon response to long-term biosolids application. Journal of Environmental Quality, 50(5), 1084–1096. https://doi.org/10.1002/jeq2.20270
+- Wang, M., Zhang, Y., Huang, Z., Xue, J., & Jesus Gutierrez-Gines, M. (2021). Limited potential of biosolids application for long-term soil carbon stabilization in coastal dune forests. Geoderma, 403, Article 115384. https://doi.org/10.1016/j.geoderma.2021.115384
+- West, T. O., & Post, W. M. (2002). Soil organic carbon sequestration rates by tillage and crop rotation. Soil Science Society of America Journal, 66, 1930–1946. https://doi.org/10.2136/sssaj2002.1930
+- Wijesekara, H., Bolan, N. S., Thangavel, R., Seshadri, B., Surapaneni, A., Saint, C., Hetherington, C., Matthews, P., & Vithanage, M. (2017). The impact of biosolids application on organic carbon and carbon dioxide fluxes in soil. Chemosphere, 189, 565–573. https://doi.org/10.1016/j.chemosphere.2017.09.090
+- Yost, J. L., & Hartemink, A. E. (2020). How deep is the soil studied – An analysis of four soil science journals. Plant and Soil, 452, 5–18. https://doi.org/10.1007/s11104-020-04550-z
 
 # Supporting Information
 
 Additional supporting information can be found online in the Supporting Information section at the end of this article.
-
-# How to cite this article
-
-Villa, Y. B., Phosalath, E., & Ryals, R. (2024). Carbon persistence of soils with long-term biosolids amendments in California agroecosystems. Soil Science Society of America Journal, 88, 354–370. https://doi.org/10.1002/saj2.20632

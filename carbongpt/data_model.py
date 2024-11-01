@@ -1,4 +1,5 @@
 from enum import StrEnum, auto
+from pathlib import Path
 
 from pydantic import BaseModel
 
@@ -9,10 +10,10 @@ class Group(StrEnum):
 
 
 class TopSoilOrganicCarbon(BaseModel):
-    """Top soil organic carbon measurement in weights."""
+    """Topsoil organic carbon weight measurements."""
 
-    value: float
-    measurement: str
+    measurement_value: float
+    measurement_name: str
     measurement_year: str
     measurement_depth: str
     measurement_unit: str
@@ -20,8 +21,11 @@ class TopSoilOrganicCarbon(BaseModel):
 
 
 class TopSoilOrganicCarbonChange(BaseModel):
-    change: float
-    measurement: str
+    """Change in topsoil organic carbon weight measurements."""
+
+    measurement_change_value: float
+    measurement_relative_to: str
+    measurement_name: str
     measurement_year: str
     measurement_depth: str
     measurement_unit: str
@@ -29,7 +33,7 @@ class TopSoilOrganicCarbonChange(BaseModel):
 
 class Location(BaseModel):
     name: str
-    location: str
+    address: str
     latitude: float
     longitude: float
     measurements: list[TopSoilOrganicCarbon | TopSoilOrganicCarbonChange]
@@ -41,3 +45,7 @@ class Paper(BaseModel):
     year: int
     doi: str
     locations: list[Location]
+
+    def save(self, path: Path) -> None:
+        with open(path, "w") as f:
+            f.write(self.model_dump_json(indent=2))

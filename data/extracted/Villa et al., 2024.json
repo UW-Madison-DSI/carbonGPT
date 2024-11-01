@@ -1,0 +1,176 @@
+{
+  "title": "Carbon persistence of soils with long-term biosolids amendments in California agroecosystems",
+  "authors": "Yocelyn B. Villa, Eddie Phosalath, Rebecca Ryals",
+  "year": 2024,
+  "doi": "10.1002/saj2.20632",
+  "locations": [
+    {
+      "name": "Sacramento",
+      "address": "Sacramento County, CA",
+      "latitude": 38.335083,
+      "longitude": -121.168472,
+      "measurements": [
+        {
+          "measurement_value": 22.0,
+          "measurement_name": "TOC in FLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 7.84,
+          "measurement_name": "TOC in FLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "measurement_value": 2.29,
+          "measurement_name": "TOC in OLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 8.86,
+          "measurement_name": "TOC in OLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "measurement_value": 1.38,
+          "measurement_name": "TOC in HF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 3.84,
+          "measurement_name": "TOC in HF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        }
+      ]
+    },
+    {
+      "name": "Solano",
+      "address": "Solano County, CA",
+      "latitude": 38.197861,
+      "longitude": -121.760556,
+      "measurements": [
+        {
+          "measurement_value": 21.61,
+          "measurement_name": "TOC in FLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 8.45,
+          "measurement_name": "TOC in FLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "measurement_value": 8.95,
+          "measurement_name": "TOC in OLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 1.85,
+          "measurement_name": "TOC in OLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "measurement_value": 4.11,
+          "measurement_name": "TOC in HF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 5.53,
+          "measurement_name": "TOC in HF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        }
+      ]
+    },
+    {
+      "name": "Merced",
+      "address": "Merced County, CA",
+      "latitude": 37.072306,
+      "longitude": -120.528611,
+      "measurements": [
+        {
+          "measurement_value": 1.55,
+          "measurement_name": "TOC in FLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 10.18,
+          "measurement_name": "TOC in FLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "measurement_value": 3.56,
+          "measurement_name": "TOC in OLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 4.87,
+          "measurement_name": "TOC in OLF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        },
+        {
+          "measurement_value": 7.74,
+          "measurement_name": "TOC in HF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 4.83,
+          "measurement_name": "TOC in HF",
+          "measurement_year": "2024",
+          "measurement_depth": "0-10 cm",
+          "measurement_unit": "Mg C/ha",
+          "group": "control"
+        }
+      ]
+    }
+  ]
+}

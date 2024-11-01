@@ -1,0 +1,48 @@
+{
+  "title": "Synergy between compost and cover crops in a Mediterranean row crop system leads to increased subsoil carbon storage",
+  "authors": "Daniel Rath, Nathaniel Bogie, Leonardo Deiss, Teamrat A. Ghezzehei, Kate M. Scow, Nicole Tautges, Asmeret Asefaw Berhe, Sanjai J. Parikh, Daoyuan Wang, Samantha Ying",
+  "year": 2022,
+  "doi": "10.5194/soil-8-59-2022",
+  "locations": [
+    {
+      "name": "Russell Ranch Sustainable Agricultural Facility",
+      "address": "Davis, CA, USA",
+      "latitude": 38.5382,
+      "longitude": -121.7617,
+      "measurements": [
+        {
+          "measurement_value": 5.0,
+          "measurement_name": "SOC increase",
+          "measurement_year": "1993-2018",
+          "measurement_depth": "0-15 cm",
+          "measurement_unit": "Mg/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 10.0,
+          "measurement_name": "SOC increase",
+          "measurement_year": "1993-2018",
+          "measurement_depth": "15-60 cm",
+          "measurement_unit": "Mg/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_value": 3.0,
+          "measurement_name": "SOC increase",
+          "measurement_year": "1993-2018",
+          "measurement_depth": "60-100 cm",
+          "measurement_unit": "Mg/ha",
+          "group": "treatment"
+        },
+        {
+          "measurement_change_value": 19.0,
+          "measurement_relative_to": "1993",
+          "measurement_name": "SOC change",
+          "measurement_year": "2018",
+          "measurement_depth": "0-100 cm",
+          "measurement_unit": "Mg/ha"
+        }
+      ]
+    }
+  ]
+}

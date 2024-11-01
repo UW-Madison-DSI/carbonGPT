@@ -20,7 +20,7 @@
         },
         {
           "measurement_value": 12.4,
-          "measurement_name": "TOC after 6 years of compost amendment",
+          "measurement_name": "TOC after 6 years with compost",
           "measurement_year": "2018",
           "measurement_depth": "0-15 cm",
           "measurement_unit": "g/kg",
@@ -28,7 +28,7 @@
         },
         {
           "measurement_value": 10.6,
-          "measurement_name": "TOC after 6 years of mineral fertilizer",
+          "measurement_name": "TOC after 6 years with mineral fertilizer",
           "measurement_year": "2018",
           "measurement_depth": "0-15 cm",
           "measurement_unit": "g/kg",
@@ -37,7 +37,7 @@
         {
           "measurement_change_value": 1.4,
           "measurement_relative_to": "Initial TOC",
-          "measurement_name": "Change in TOC after 6 years of compost amendment",
+          "measurement_name": "Change in TOC with compost",
           "measurement_year": "2018",
           "measurement_depth": "0-15 cm",
           "measurement_unit": "g/kg"
@@ -45,7 +45,7 @@
         {
           "measurement_change_value": -0.4,
           "measurement_relative_to": "Initial TOC",
-          "measurement_name": "Change in TOC after 6 years of mineral fertilizer",
+          "measurement_name": "Change in TOC with mineral fertilizer",
           "measurement_year": "2018",
           "measurement_depth": "0-15 cm",
           "measurement_unit": "g/kg"
