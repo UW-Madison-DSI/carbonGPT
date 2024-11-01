@@ -1,7 +1,7 @@
 [project]
-name = "proto-carbongpt"
+name = "carbongpt"
 version = "0.1.0"
-description = "Add your description here"
+description = "Prototype extracting structured data from soil science papers to build a benchmark dataset for soil system models (e.g., carbon cycles)."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
