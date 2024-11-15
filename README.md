@@ -172,7 +172,7 @@ class Group(StrEnum):
 
 ### Extraction
 
-Providing a [structure](proto_carbongpt/data_model.py) and a simple prompt allows an LLM to find the relevant table in the PDF and return structured data:
+Providing a [structure](carbongpt/data_model.py) and a simple prompt allows an LLM to find the relevant table in the PDF and return structured data:
 
 Prompt
 
